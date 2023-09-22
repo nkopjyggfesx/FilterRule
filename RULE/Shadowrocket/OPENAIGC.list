@@ -1,14 +1,15 @@
 # NAME: OPENAIGC
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
+# CREATED: 2023-09-22 08:35 AM
 # UPDATED: 2023-09-22 08:39 AM
-# DESCRIPTION:
-# DOMAIN:13
-# DOMAIN-SUFFIX:38
-# DOMAIN-KEYWORD:3
-# IP-CIDR:
-# URL-REGEX:
-# TOTAL:54
+# DESCRIPTION: 
+# DOMAIN: 13
+# DOMAIN-SUFFIX: 38
+# DOMAIN-KEYWORD: 3
+# IP-CIDR: 
+# URL-REGEX: 
+# TOTAL: 54
 DOMAIN,bard.google.com
 DOMAIN,cdn.auth0.com
 DOMAIN,openaiapi-site.azureedge.net
