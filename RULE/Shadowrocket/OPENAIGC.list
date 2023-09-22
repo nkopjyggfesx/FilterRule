@@ -1,1 +1,65 @@
-
+# NAME: OPENAIGC
+# AUTHOR: hong
+# REPO: https://github.com/nkopjyggfesx/FilterRule
+# UPDATED: 2023-09-22 08:39 AM
+# DESCRIPTION:
+# DOMAIN:13
+# DOMAIN-SUFFIX:38
+# DOMAIN-KEYWORD:3
+# IP-CIDR:
+# URL-REGEX:
+# TOTAL:54
+DOMAIN,bard.google.com
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,www.bing.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,chat.openai.com
+DOMAIN,ingest.sentry.io
+DOMAIN,api.statsig.com
+DOMAIN,app-measurement.com
+DOMAIN,sdk-api-v1.singular.net
+DOMAIN,static.xx.fbcdn.net
+DOMAIN,widget.intercom.io
+DOMAIN,api.revenuecat.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,heypi.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,js.intercomcdn.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,tch.poe.com
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,forefront
+DOMAIN-KEYWORD,midjourney
+DOMAIN-KEYWORD,quora
