@@ -2,10 +2,11 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:31 AM
-# UPDATED: 2023-09-22 09:43 AM
+# UPDATED: 2023-09-22 09:46 AM
 # DESCRIPTION:
 # DOMAIN
 # DOMAIN-SUFFIX
 # DOMAIN-KEYWORD
 # IP-CIDR
 # URL-REGEX
+DOMAIN,cn.bing.com
