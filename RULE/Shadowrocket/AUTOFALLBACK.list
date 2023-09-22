@@ -3,13 +3,12 @@
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:29 AM
 # UPDATED: 2023-09-22 09:34 AM
-# DESCRIPTION:
-# DOMAIN: 
-# DOMAIN-SUFFIX: 
-# DOMAIN-KEYWORD: 
-# IP-CIDR: 
-# URL-REGEX: 
-# TOTAL: 
+# DESCRIPTION: 
+# DOMAIN
+# DOMAIN-SUFFIX
+# DOMAIN-KEYWORD 
+# IP-CIDR
+# URL-REGEX
 DOMAIN,raw.githubusercontent.com
 DOMAIN,mo.konami.net
 DOMAIN,app.adjust.com
