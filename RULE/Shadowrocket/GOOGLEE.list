@@ -1,0 +1,22 @@
+# NAME: GOOGLEE
+# AUTHOR: hong
+# REPO: https://github.com/nkopjyggfesx/FilterRule
+# UPDATED: 2023-09-22 09:09 AM
+# DESCRIPTION:
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 9
+# DOMAIN-KEYWORD: 1
+# IP-CIDR: 
+# URL-REGEX: 
+# TOTAL: 11
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,9gag.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,t.eloqua.com
+DOMAIN-SUFFIX,eloqua.com
+DOMAIN-KEYWORD,nobepay
