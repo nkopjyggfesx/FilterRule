@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:31 AM
-# UPDATED: 2023-09-22 09:46 AM
+# UPDATED: 2023-09-22 09:47 AM
 # DESCRIPTION:
 # DOMAIN
 # DOMAIN-SUFFIX
@@ -10,3 +10,13 @@
 # IP-CIDR
 # URL-REGEX
 DOMAIN,cn.bing.com
+#MasterDuelMeta Ads REJECT 使用Brave浏览器打开网址寻找Ads&Tracker
+DOMAIN,cdn-gl.imrworldwide.co
+DOMAIN,cdn.intergient.com
+DOMAIN,d2v02itv0y9u9t.cloudfront.net
+DOMAIN,sb.scorecardresearch.com
+DOMAIN,secure-us.imrworldwide.com
+DOMAIN,www.googletagmanager.com
+DOMAIN,cdn-gl.imrworldwide.com
+DOMAIN,reporting.cdndex.io
+DOMAIN,secure-sts-prod.imrworldwide.com
