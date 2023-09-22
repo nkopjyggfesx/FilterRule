@@ -2,10 +2,46 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:30 AM
-# UPDATED: 2023-09-22 09:38 AM
+# UPDATED: 2023-09-22 09:46 AM
 # DESCRIPTION:
 # DOMAIN
 # DOMAIN-SUFFIX
 # DOMAIN-KEYWORD
 # IP-CIDR
 # URL-REGEX
+DOMAIN,dns.weixin.com
+DOMAIN,ad.12306.cn
+DOMAIN,gg.caixin.com
+DOMAIN,sdkapp.uve.weibo.com
+DOMAIN,clash.razord.top
+DOMAIN,yacd.haishan.me
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,95599.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bscabank.com
+DOMAIN-SUFFIX,openaboc.cn
+DOMAIN-SUFFIX,openaboc.com
+DOMAIN-SUFFIX,openaboc.com.cn
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,hetushu.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,iot-tencent.com
+DOMAIN-SUFFIX,lswld.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,coolshell.cn
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,qzzn.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-KEYWORD,myunidays
+DOMAIN-KEYWORD,ankiweb
+DOMAIN-KEYWORD,hetushu
+DOMAIN-KEYWORD,zanao
+DOMAIN-KEYWORD,xzxpay
+DOMAIN-KEYWORD,hrbust
+DOMAIN-KEYWORD,eudic
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,wechat
