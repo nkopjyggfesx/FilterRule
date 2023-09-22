@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:29 AM
-# UPDATED: 2023-09-22 09:51 AM
+# UPDATED: 2023-09-22 09:56 PM
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN,raw.githubusercontent.com
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,masterduelmeta.com
 DOMAIN-SUFFIX,db.yugioh-card.com
 DOMAIN-SUFFIX,yugioh-card.com
+DOMAIN-SUFFIX,appleinsider.com
 DOMAIN-KEYWORD,konami
 DOMAIN-KEYWORD,masterduelmeta
 DOMAIN-KEYWORD,ubisoft
