@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:29 AM
-# UPDATED: 2023-09-22 09:29 AM
+# UPDATED: 2023-09-22 09:34 AM
 # DESCRIPTION:
 # DOMAIN: 
 # DOMAIN-SUFFIX: 
@@ -10,3 +10,21 @@
 # IP-CIDR: 
 # URL-REGEX: 
 # TOTAL: 
+DOMAIN,raw.githubusercontent.com
+DOMAIN,mo.konami.net
+DOMAIN,app.adjust.com
+DOMAIN-SUFFIX,apnews.com
+DOMAIN-SUFFIX,stacksocial.com
+DOMAIN-SUFFIX,laosu.ml
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,mo.konami.net
+DOMAIN-SUFFIX,applilink.jp
+DOMAIN-SUFFIX,app.adjust.com
+DOMAIN-SUFFIX,masterduelmeta.com
+DOMAIN-SUFFIX,db.yugioh-card.com
+DOMAIN-SUFFIX,yugioh-card.com
+DOMAIN-KEYWORD,konami
+DOMAIN-KEYWORD,masterduelmeta
+DOMAIN-KEYWORD,ubisoft
+DOMAIN-KEYWORD,steam
