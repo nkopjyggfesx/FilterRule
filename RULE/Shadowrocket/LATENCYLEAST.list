@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:29 AM
-# UPDATED: 2023-09-22 04:15 PM
+# UPDATED: 2023-09-22 08:59 PM
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN,feeds.kottke.org
@@ -146,5 +146,6 @@ DOMAIN-SUFFIX,wired.com
 DOMAIN-SUFFIX,yingshi.tv
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,rss.fakeye.xyz
+DOMAIN-SUFFIX,sunqi.org
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,netnewswire
