@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:29 AM
-# UPDATED: 2023-09-23 10:47 AM
+# UPDATED: 2023-09-23 10:48 AM
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN,feeds.kottke.org
@@ -45,6 +45,7 @@ DOMAIN,nsfw.abskoop.com
 DOMAIN,www.niceso.fun
 DOMAIN,rss.fakeye.xyz
 DOMAIN,www.taishan.pro
+DOMAIN,best.kogeki.dev
 DOMAIN,portal.coffeecloud.top
 DOMAIN-SUFFIX,newlearner.site
 DOMAIN-SUFFIX,tigg.cc
