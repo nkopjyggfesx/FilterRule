@@ -47,6 +47,7 @@ DOMAIN,rss.fakeye.xyz
 DOMAIN,www.taishan.pro
 DOMAIN,best.kogeki.dev
 DOMAIN,portal.coffeecloud.top
+DOAMIN,fly.kogeki.dev
 DOMAIN-SUFFIX,newlearner.site
 DOMAIN-SUFFIX,tigg.cc
 DOMAIN-SUFFIX,geekerline.com
@@ -152,5 +153,7 @@ DOMAIN-SUFFIX,rss.fakeye.xyz
 DOMAIN-SUFFIX,sunqi.org
 DOMAIN-SUFFIX,fnf.one
 DOMAIN-SUFFIX,digitalnomadlc.com
+DOMAIN-SUFFIX,kogeki.dev
+DOMAIN-SUFFIX,taishan.pro
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,netnewswire
