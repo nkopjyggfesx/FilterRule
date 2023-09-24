@@ -42,5 +42,4 @@ PROXY
 
 @ ACKNOWLEDGEMENTS
 [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master) 
-<br>
 [@Loyalsoldier](https://github.com/Loyalsoldier/clash-rules)
