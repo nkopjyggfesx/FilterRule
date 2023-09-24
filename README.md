@@ -20,4 +20,7 @@ REJECT<br>
 PROXY<br>
 @ ACKNOWLEDGEMENTS<br>
 [@blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master) <br>
-[@Loyalsoldier](https://github.com/Loyalsoldier/clash-rules)
+[@Loyalsoldier](https://github.com/Loyalsoldier/clash-rules)<br>
+[@wlxuf](https://github.com/wlxuf/Shadowrocket)
+[@wyangx](https://github.com/wyangx/Rules/blob/main/shadowrocket.conf)
+[@vnxidev](https://github.com/vnxidev/sfw)
