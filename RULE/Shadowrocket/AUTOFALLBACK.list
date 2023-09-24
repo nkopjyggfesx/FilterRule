@@ -5,22 +5,22 @@
 # UPDATED: 2023-09-22 09:56 PM
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
-DOMAIN,raw.githubusercontent.com
-DOMAIN,mo.konami.net
-DOMAIN,app.adjust.com
-DOMAIN-SUFFIX,apnews.com
-DOMAIN-SUFFIX,stacksocial.com
-DOMAIN-SUFFIX,laosu.ml
-DOMAIN-SUFFIX,freewechat.com
-DOMAIN-SUFFIX,konami.net
-DOMAIN-SUFFIX,mo.konami.net
-DOMAIN-SUFFIX,applilink.jp
 DOMAIN-SUFFIX,app.adjust.com
-DOMAIN-SUFFIX,masterduelmeta.com
-DOMAIN-SUFFIX,db.yugioh-card.com
-DOMAIN-SUFFIX,yugioh-card.com
+DOMAIN,app.adjust.com
 DOMAIN-SUFFIX,appleinsider.com
+DOMAIN-SUFFIX,applilink.jp
+DOMAIN-SUFFIX,apnews.com
+DOMAIN-SUFFIX,db.yugioh-card.com
+DOMAIN-SUFFIX,freewechat.com
 DOMAIN-KEYWORD,konami
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,laosu.ml
 DOMAIN-KEYWORD,masterduelmeta
-DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,masterduelmeta.com
+DOMAIN-SUFFIX,mo.konami.net
+DOMAIN,mo.konami.net
+DOMAIN,raw.githubusercontent.com
+DOMAIN-SUFFIX,stacksocial.com
 DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,yugioh-card.com
