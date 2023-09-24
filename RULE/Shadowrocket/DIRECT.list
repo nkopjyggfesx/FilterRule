@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22 09:30 AM
-# UPDATED: 2023-09-22 09:51 AM
+# UPDATED: 2023-09-23 03:44 PM
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN,dns.weixin.com
@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,qzzn.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,ntp.nasa.gov
+DOMAIN-SUFFIX,amazon.cn
 DOMAIN-KEYWORD,myunidays
 DOMAIN-KEYWORD,ankiweb
 DOMAIN-KEYWORD,hetushu
