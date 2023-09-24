@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22
-# UPDATED: 2023-09-24
+# UPDATED: 2023-09-25
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 # “https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list” 2023年9月24日
@@ -25447,7 +25447,7 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
 # ----------
-# Other
+# Other Created
 DOMAIN-SUFFIX,1milk.top
 DOMAIN-SUFFIX,23img.com
 DOMAIN-SUFFIX,25img.com
@@ -25570,6 +25570,7 @@ DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,thefreedictionary.com
 DOMAIN-SUFFIX,thisav.org
 DOMAIN-SUFFIX,tigg.cc
+DOMAIN,tool.yibook.org
 DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,unsplash.com
