@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-22
-# UPDATED: 2023-09-25
+# UPDATED: 2023-09-26
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 # “https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list” 2023年9月24日
@@ -25594,6 +25594,7 @@ DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wuyong.fun
 DOMAIN,www.1000qm.vip
 DOMAIN,www.555ys1.com
+DOMAIN,www.69shuba.com
 DOMAIN,www.aca.best
 DOMAIN,www.drivereasy.com
 DOMAIN,www.ducksoft.site
