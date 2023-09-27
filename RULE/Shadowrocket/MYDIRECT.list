@@ -5,3 +5,43 @@
 # UPDATED: 2023-09-27
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
+DOMAIN-SUFFIX,95599.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN,ad.12306.cn
+DOMAIN-KEYWORD,ankiweb
+DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,bscabank.com
+DOMAIN,clash.razord.top
+DOMAIN,dns.weixin.com
+DOMAIN-SUFFIX,openaboc.com.cn
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,coolshell.cn
+DOMAIN-KEYWORD,eudic
+DOMAIN,gg.caixin.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-KEYWORD,hetushu
+DOMAIN-SUFFIX,hetushu.com
+DOMAIN-KEYWORD,hrbust
+DOMAIN-SUFFIX,iot-tencent.com
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,lswld.com
+DOMAIN-KEYWORD,myunidays
+DOMAIN-SUFFIX,ntp.nasa.gov
+DOMAIN-SUFFIX,openaboc.cn
+DOMAIN-SUFFIX,openaboc.com
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qzzn.com
+DOMAIN,sdkapp.uve.weibo.com
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-KEYWORD,wechat
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,xzxpay
+DOMAIN,yacd.haishan.me
+DOMAIN-KEYWORD,zanao
+DOMAIN-SUFFIX,zanao.com
