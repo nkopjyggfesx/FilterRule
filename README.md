@@ -29,3 +29,4 @@ PROXY<br>
 [@vnxidev](https://github.com/vnxidev/sfw)<br>
 [@ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash)<br>
 [@LM-Firefly](https://github.com/LM-Firefly/Rules)<br>
+[@deezertidal](https://github.com/deezertidal/shadowrocket-rules)
