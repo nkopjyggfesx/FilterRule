@@ -1,20 +1,23 @@
 # FilterRule
 OPENAIGC<br>
 APPLE<br>
-GOOGLEE<br>
+APPLEPROXY<br>
+GOOGLEYOUTUBEE<br>
 MICROSOFT<br>
 TELEGRAM<br>
+INSTAGRAME<br>
+GITHUBE<br>
 NETFLIX<br>
 DISNEY<br>
-HULU<br>
 AMAZONPRIMEVIDEO<br>
 HBO<br>
 TIKTOK<br>
 PANDORA<br>
-EMBY<br>
+CRYPTOCURRENCY<br>
 INTERNATIONALMOVIEMEIDA<br>
 AUTOFALLBACK<br>
 PERSONALCHOICE<br>
+OTHER<br>
 DIRECT<br>
 REJECT<br>
 PROXY<br>
@@ -25,3 +28,4 @@ PROXY<br>
 [@wyangx](https://github.com/wyangx/Rules/blob/main/shadowrocket.conf)<br>
 [@vnxidev](https://github.com/vnxidev/sfw)<br>
 [@ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash)<br>
+[@LM-Firefly](https://github.com/LM-Firefly/Rules)<br>
