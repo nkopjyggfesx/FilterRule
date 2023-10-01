@@ -290,4 +290,10 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
 # ----------
 
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/OKX/OKX.list"
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+# ----------
+
 # 以下为自定义规则
