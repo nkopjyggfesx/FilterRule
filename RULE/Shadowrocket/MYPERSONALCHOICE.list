@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-27
-# UPDATED: 2023-10-01
+# UPDATED: 2023-10-02
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN-SUFFIX,1milk.top
@@ -77,6 +77,7 @@ DOMAIN-SUFFIX,glados.rocks
 DOMAIN-SUFFIX,gloria.social
 DOMAIN-SUFFIX,gptocean.com
 DOMAIN-SUFFIX,googo.us
+DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN,i.ss01.net
 DOMAIN-SUFFIX,imgur.io
