@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,c1rp.com
 DOMAIN-SUFFIX,cgwallpapers.com
+DOMAIN-KEYWORD,charliemonroe
+DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,cheapy.top
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,clashios.com
@@ -125,6 +127,7 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,shyrz.me
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,smartproxy.com
+DOMAIN,software.charliemonroe.net
 DOMAIN-SUFFIX,soupian.app
 DOMAIN-SUFFIX,sssoou.com
 DOMAIN-SUFFIX,sstrojan.com
