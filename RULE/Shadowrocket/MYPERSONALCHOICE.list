@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-27
-# UPDATED: 2023-10-03
+# UPDATED: 2023-10-04
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN-SUFFIX,1milk.top
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,annas-blog.org
 DOMAIN-SUFFIX,anti-ad.net
 DOMAIN-SUFFIX,api.ipfighter.com
+DOMAIN-SUFFIX,asmrhub.site
 DOMAIN-SUFFIX,asmrs.live
 DOMAIN-SUFFIX,avavz.com
 DOMAIN-SUFFIX,avjb.com
