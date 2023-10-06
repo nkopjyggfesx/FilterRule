@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-27
-# UPDATED: 2023-10-04
+# UPDATED: 2023-10-06
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN-SUFFIX,1milk.top
@@ -90,6 +90,8 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipfighter.com
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,jike.info
+DOMAIN-KEYWORD,kjkkk
+DOMAIN-SUFFIX,kjkkk.top
 DOMAIN-SUFFIX,kogeki.dev
 DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
