@@ -2,7 +2,7 @@
 # AUTHOR: hong
 # REPO: https://github.com/nkopjyggfesx/FilterRule
 # CREATED: 2023-09-27
-# UPDATED: 2023-10-06
+# UPDATED: 2023-10-07
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
 DOMAIN-SUFFIX,1milk.top
@@ -197,6 +197,8 @@ DOMAIN,www.thisiscolossal.com
 DOMAIN,www.v2ex.com
 DOMAIN,www.zcxswang.cc
 DOMAIN,www.zhanghao.cc
+DOMAIN-KEYWORD,yazhouse8
+DOMAIN-SUFFIX,yazhouse8.com
 DOMAIN-SUFFIX,yeeach.com
 DOMAIN,yfamily.vercel.app
 DOMAIN-SUFFIX,yingshi.tv
