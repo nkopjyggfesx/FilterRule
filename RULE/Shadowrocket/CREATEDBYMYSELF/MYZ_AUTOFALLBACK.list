@@ -3,3 +3,22 @@
 # updated: 2023-10-08
 # description:
 # note: 
+DOMAIN-SUFFIX,app.adjust.com
+DOMAIN,app.adjust.com
+DOMAIN-SUFFIX,appleinsider.com
+DOMAIN-SUFFIX,applilink.jp
+DOMAIN-SUFFIX,apnews.com
+DOMAIN-SUFFIX,db.yugioh-card.com
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-KEYWORD,konami
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,laosu.ml
+DOMAIN-KEYWORD,masterduelmeta
+DOMAIN-SUFFIX,masterduelmeta.com
+DOMAIN-SUFFIX,mo.konami.net
+DOMAIN,mo.konami.net
+DOMAIN,raw.githubusercontent.com
+DOMAIN-SUFFIX,stacksocial.com
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,yugioh-card.com
