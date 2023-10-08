@@ -42,6 +42,7 @@ DOMAIN,lens.l.google.com
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,mw1.google.com
 DOMAIN-KEYWORD,pa.google
+DOMAIN,voice.google.com
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*
 IP-CIDR,108.177.125.188/32,no-resolve
