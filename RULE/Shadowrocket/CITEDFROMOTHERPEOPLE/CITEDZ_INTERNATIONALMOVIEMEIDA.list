@@ -43,3 +43,47 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 # ----------
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/IMDB/IMDB.list"
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com
+# ----------
+
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/LineTV/LineTV.list"
+DOMAIN,d17lx9ucc6k9fc.cloudfront.net
+DOMAIN,d3pgb93pk7bvxj.cloudfront.net
+DOMAIN,d3vm9lcxb6xcm4.cloudfront.net
+DOMAIN-SUFFIX,chocotv.com.tw
+DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,linetv.tw
+USER-AGENT,LINE%20TV*
+USER-AGENT,LINE*
+# ----------
+
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Niconico/Niconico.list"
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+DOMAIN-SUFFIX,socdm.com
+USER-AGENT,Niconico*
+# ----------
+
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ViuTV/ViuTV.list"
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
+DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN-SUFFIX,viu.tv
+USER-AGENT,Viu*
+# ----------
