@@ -1,0 +1,25 @@
+# CITEDREDDIT
+# created: 2023-10-08
+# updated: 2023-10-08
+# description:
+# note: 
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Reddit/Reddit.list"
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+# End
+# "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Reddit.list"
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+# End
