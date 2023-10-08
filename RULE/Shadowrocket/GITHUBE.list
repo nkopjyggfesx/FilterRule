@@ -39,13 +39,4 @@ DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
 # ----------
 
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,gitbook.zendesk.com
-DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,gitlab-static.net
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.io
-DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gitter-static.net
-DOMAIN-SUFFIX,gitter.im
+
