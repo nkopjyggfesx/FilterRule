@@ -5,43 +5,6 @@
 # UPDATED: 2023-10-03
 # DESCRIPTION: DOMAIN DOMAIN-SUFFIX DOMAIN-KEYWORD IP-CIDR URL-REGEX
 # NOTE: 
-
-# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Binance/Binance.list"
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binance.cc
-DOMAIN-SUFFIX,binance.charity
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.co
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binance.net
-DOMAIN-SUFFIX,binance.org
-DOMAIN-SUFFIX,binance.us
-DOMAIN-SUFFIX,binance.vision
-DOMAIN-SUFFIX,binanceapi.com
-DOMAIN-SUFFIX,binancezh.be
-DOMAIN-SUFFIX,binancezh.biz
-DOMAIN-SUFFIX,binancezh.cc
-DOMAIN-SUFFIX,binancezh.co
-DOMAIN-SUFFIX,binancezh.com
-DOMAIN-SUFFIX,binancezh.info
-DOMAIN-SUFFIX,binancezh.ink
-DOMAIN-SUFFIX,binancezh.kim
-DOMAIN-SUFFIX,binancezh.link
-DOMAIN-SUFFIX,binancezh.live
-DOMAIN-SUFFIX,binancezh.mobi
-DOMAIN-SUFFIX,binancezh.net
-DOMAIN-SUFFIX,binancezh.pro
-DOMAIN-SUFFIX,binancezh.sh
-DOMAIN-SUFFIX,binancezh.top
-DOMAIN-SUFFIX,bnappzh.co
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,saasexch.com
-# ----------
-
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Crypto/Crypto.list"
 DOMAIN,token-api.metaswap.codefi.network
 DOMAIN-SUFFIX,1inch.io
@@ -290,11 +253,7 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
 # ----------
 
-# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/OKX/OKX.list"
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,oklink.com
-DOMAIN-SUFFIX,okx.com
-# ----------
+
 
 # 以下为自定义规则
 DOMAIN-SUFFIX,pionex.com
