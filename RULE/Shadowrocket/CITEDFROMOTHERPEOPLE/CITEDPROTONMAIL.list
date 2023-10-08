@@ -1,0 +1,12 @@
+# CITEDPROTONMAIL
+# created: 2023-10-08
+# updated: 2023-10-08
+# description:
+# note: 
+# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Protonmail/Protonmail.list"
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
+# End
