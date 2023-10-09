@@ -7436,34 +7436,7 @@ IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
 # ----------
 
-# "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Mozilla/Mozilla.list"
-DOMAIN-SUFFIX,bugzilla.org
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,developer.allizom.org
-DOMAIN-SUFFIX,docs.rs
-DOMAIN-SUFFIX,extensionworkshop.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,firefox.com.cn
-DOMAIN-SUFFIX,firefoxusercontent.com
-DOMAIN-SUFFIX,getpocket.com
-DOMAIN-SUFFIX,mdn.allizom.net
-DOMAIN-SUFFIX,mdn.dev
-DOMAIN-SUFFIX,mdn.mozillademos.org
-DOMAIN-SUFFIX,mdn.mozit.cloud
-DOMAIN-SUFFIX,mdnplay.dev
-DOMAIN-SUFFIX,mdnyalp.dev
-DOMAIN-SUFFIX,mofoprod.net
-DOMAIN-SUFFIX,mozilla.com
-DOMAIN-SUFFIX,mozilla.community
-DOMAIN-SUFFIX,mozilla.net
-DOMAIN-SUFFIX,mozilla.org
-DOMAIN-SUFFIX,pocket-image-cache.com
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,seamonkey-project.org
-DOMAIN-SUFFIX,sentry.prod.mozaws.net
-DOMAIN-SUFFIX,thunderbird.net
-# ----------
+
 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Opera/Opera.list"
 DOMAIN-SUFFIX,1npq4.tk
