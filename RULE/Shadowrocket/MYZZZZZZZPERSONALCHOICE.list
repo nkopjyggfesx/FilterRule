@@ -136,8 +136,8 @@ DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,piqsels.com
 DOMAIN-SUFFIX,pkeytool.com
 DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN-SUFFIX,producthunt.app.link
-DOMAIN-SUFFIX,producthunt-alternate.app.link
+DOMAIN,producthunt.app.link
+DOMAIN,producthunt-alternate.app.link
 DOMAIN,portal.coffeecloud.top
 DOMAIN-SUFFIX,qust.me
 DOMAIN-SUFFIX,ranwen.la
