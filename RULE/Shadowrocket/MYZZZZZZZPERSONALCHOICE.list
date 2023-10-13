@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,anti-ad.net
 DOMAIN-SUFFIX,api.ipfighter.com
 DOMAIN-SUFFIX,asmrhub.site
 DOMAIN-SUFFIX,asmrs.live
+DOMAIN,asset.onekey-asset.com
 DOMAIN-SUFFIX,avavz.com
 DOMAIN-SUFFIX,avjb.com
 DOMAIN-SUFFIX,avple.tv
@@ -46,6 +47,7 @@ DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,c1rp.com
 DOMAIN,card.onekey.so
+DOMAIN,card-server.onekey.so
 DOMAIN-SUFFIX,cgwallpapers.com
 DOMAIN-KEYWORD,charliemonroe
 DOMAIN-SUFFIX,charliemonroe.net
@@ -127,6 +129,8 @@ DOMAIN,nsfw.abskoop.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN,onekey.zendesk.com
 DOMAIN-SUFFIX,owenyoung.com
 DOMAIN-SUFFIX,pandavpnpro.com
 DOMAIN-SUFFIX,pbairen.xyz
