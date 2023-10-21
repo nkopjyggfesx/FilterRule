@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-10-20
+# updated: 2023-10-21
 # description:
 # note: 
 DOMAIN-SUFFIX,1milk.top
@@ -53,6 +53,8 @@ DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,cheapy.top
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,clashios.com
+DOMAIN-KEYWORD,codecademy
+DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,colsrch.cn
 DOMAIN,cn.nytimes.com
 DOMAIN-SUFFIX,cn.nytimes.com
@@ -183,6 +185,7 @@ DOMAIN-SUFFIX,tigg.cc
 DOMAIN,tool.yibook.org
 DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,trumpwallpapers.com
+DOMAIN-SUFFIX,typeform.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,uukanshu.com
 DOMAIN-SUFFIX,v2rayssr.com
