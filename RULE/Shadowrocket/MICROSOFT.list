@@ -1,6 +1,6 @@
 # MICROSOFT
 # created: 2023-10-08
-# updated: 2023-10-09
+# updated: 2023-10-22
 # description:
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Bing/Bing.list"
@@ -730,3 +730,4 @@ DOMAIN-KEYWORD,skydrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 # End
+DOMAIN-SUFFIX,msftstatic.com
