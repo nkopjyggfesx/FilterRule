@@ -731,3 +731,4 @@ USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 # End
 DOMAIN-SUFFIX,msftstatic.com
+DOMAIN-SUFFIX,scorecardresearch.com
