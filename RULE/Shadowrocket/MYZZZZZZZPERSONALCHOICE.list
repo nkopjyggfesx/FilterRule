@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-10-23
+# updated: 2023-10-24
 # description:
 # note: 
 DOMAIN-SUFFIX,1milk.top
@@ -133,6 +133,7 @@ DOMAIN-KEYWORD,nobepay
 DOMAIN-SUFFIX,nobepay.com
 DOMAIN,nsfw.abskoop.com
 DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
