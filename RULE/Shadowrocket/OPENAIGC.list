@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,js.intercomcdn.com
+DOMAIN-SUFFIX,lemonsqueezy.com
 DOMAIN-KEYWORD,midjourney
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
