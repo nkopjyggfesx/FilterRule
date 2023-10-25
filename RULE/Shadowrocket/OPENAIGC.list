@@ -50,6 +50,8 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,heypi.com
 DOMAIN-SUFFIX,hosted-by-discourse.com
+DOMAIN-SUFFIX,hsforms.com
+DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,identrust.com
 DOMAIN,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.sentry.io
