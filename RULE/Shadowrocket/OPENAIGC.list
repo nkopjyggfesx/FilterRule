@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-10-09
+# updated: 2023-10-25
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
 DOMAIN-SUFFIX,tch.poe.com
+DOMAIN-SUFFIX,typingmind.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,widget.intercom.io
