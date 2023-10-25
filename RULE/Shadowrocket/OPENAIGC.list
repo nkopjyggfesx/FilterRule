@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gpt3sandbox.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,haproxy.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,heypi.com
 DOMAIN-SUFFIX,hosted-by-discourse.com
@@ -85,6 +86,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-KEYWORD,quora
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,scrubbingcenter.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,singular.net
