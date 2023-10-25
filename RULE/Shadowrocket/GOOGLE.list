@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2023-10-09
+# updated: 2023-10-25
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -747,6 +747,8 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
+DOMAIN-SUFFIX,blazingcdn.net
+DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,earth-pa.clients6.google.com
