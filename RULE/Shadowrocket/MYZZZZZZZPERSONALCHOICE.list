@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-10-25
+# updated: 2023-10-26
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -195,6 +195,9 @@ DOMAIN-SUFFIX,thecryptobreakdown.com
 DOMAIN-SUFFIX,thefreedictionary.com
 DOMAIN-SUFFIX,thisav.org
 DOMAIN-SUFFIX,tigg.cc
+DOMAIN-SUFFIX,todoist
+DOMAIN,todoist.b-cdn.net
+DOMAIN-SUFFIX,todoist.net
 DOMAIN,tool.yibook.org
 DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,trumpwallpapers.com
