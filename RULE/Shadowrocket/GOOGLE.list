@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2023-10-25
+# updated: 2023-10-26
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -738,7 +738,7 @@ USER-AGENT,*com.google.Drive*
 USER-AGENT,Google.Drive*
 # ----------
 
-# 自定义
+# CITING OTHER GITHUB CONTRIBUTORS SUCH AS 'blackmatrix7' AND 'LOYALSOLDIER'
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com
@@ -747,8 +747,6 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
-DOMAIN-SUFFIX,blazingcdn.net
-DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,earth-pa.clients6.google.com
@@ -759,7 +757,7 @@ USER-AGENT,Google.Drive*
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-KEYWORD,www.google.
+DOMAIN-KEYWORD,google
 DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -780,7 +778,6 @@ DOMAIN,lens.l.google.com
 DOMAIN,maps.google.com
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,mw1.google.com
-DOMAIN-KEYWORD,pa.google
 DOMAIN,voice.google.com
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,*com.google.Drive*
@@ -810,3 +807,8 @@ IP-CIDR,74.125.206.188/32,no-resolve
 IP-CIDR,74.125.23.188/32,no-resolve
 IP-CIDR,74.125.24.188/32,no-resolve
 IP-CIDR,74.125.28.188/32,no-resolve
+# End
+# 以下为自定义
+DOMAIN-SUFFIX,blazingcdn.net
+DOMAIN-SUFFIX,cdnsun.net
+DOMAIN-SUFFIX,requestmetrics.com
