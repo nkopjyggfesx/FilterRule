@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-10-26
+# updated: 2023-10-28
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -249,6 +249,9 @@ DOMAIN,www.zcxswang.cc
 DOMAIN,www.zhanghao.cc
 DOMAIN-SUFFIX,x2download.com
 DOMAIN-SUFFIX,xijinping.store
+DOMAIN-KEYWORD,xmind
+DOMAIN-SUFFIX,xmind.app
+DOMAIN-SUFFIX,xmind.net
 DOMAIN-KEYWORD,yazhouse8
 DOMAIN-SUFFIX,yazhouse8.com
 DOMAIN-SUFFIX,yeeach.com
