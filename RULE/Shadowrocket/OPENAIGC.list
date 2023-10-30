@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,bingviz
+DOMAIN-SUFFIX,bingviz.com
 DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN,cdn.usefathom.com
@@ -87,6 +89,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-KEYWORD,quora
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,sapphire.bingviz.com
 DOMAIN-SUFFIX,scrubbingcenter.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,sdk-api-v1.singular.net
