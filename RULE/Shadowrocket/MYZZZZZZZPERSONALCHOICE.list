@@ -180,6 +180,7 @@ DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,smartproxy.com
 DOMAIN,software.charliemonroe.net
 DOMAIN-SUFFIX,soupian.app
+DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,ss.mba
 DOMAIN-SUFFIX,sssoou.com
 DOMAIN-SUFFIX,sstrojan.com
@@ -268,5 +269,7 @@ DOMAIN-SUFFIX,zhikanlouzhu.com
 DOMAIN-SUFFIX,zlib-articles.se
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zz123.com
+IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
+
