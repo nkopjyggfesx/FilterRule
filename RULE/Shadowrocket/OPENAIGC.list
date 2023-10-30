@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-10-25
+# updated: 2023-10-30
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,cookbook.openai.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,edgecompute.app
+DOMAIN-SUFFIX,emb-api.com
 DOMAIN-SUFFIX,eu-west-1.amazonaws.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,f7tk.com
