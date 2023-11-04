@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-03
+# updated: 2023-11-04
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,bookauthority.org
 DOMAIN-SUFFIX,bookshuku.com
 DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,c1rp.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN,card.onekey.so
