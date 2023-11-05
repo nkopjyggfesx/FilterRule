@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-10-30
+# updated: 2023-11-05
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -49,6 +49,7 @@ DOMAIN-KEYWORD,forefront
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gpt3sandbox.com
+DOMAIN-SUFFIX,grok.x.ai
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,haproxy.com
 DOMAIN-SUFFIX,hcaptcha.com
@@ -109,3 +110,4 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,widget.intercom.io
 DOMAIN,www.bing.com
+DOMAIN-SUFFIX,x.ai
