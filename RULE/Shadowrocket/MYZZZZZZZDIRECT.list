@@ -1,6 +1,6 @@
 # MYZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-11-03
+# updated: 2023-11-06
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,coolshell.cn
 DOMAIN-KEYWORD,eudic
 DOMAIN,gg.caixin.com
+DOMAIN-KEYWORD,goodnotes
+DOMAIN-SUFFIX,goodnotes.com
+DOMAIN-SUFFIX,goodnotescloud.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-KEYWORD,hetushu
 DOMAIN-SUFFIX,hetushu.com
