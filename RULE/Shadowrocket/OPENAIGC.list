@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-11-05
+# updated: 2023-11-08
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,cloud.culturedcode.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,cookbook.openai.com
 DOMAIN-SUFFIX,doubleclick.net
