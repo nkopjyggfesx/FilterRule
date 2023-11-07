@@ -812,4 +812,5 @@ IP-CIDR,74.125.28.188/32,no-resolve
 DOMAIN-SUFFIX,blazingcdn.net
 DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,eascdn.net
+DOMAIN-SUFFIX,northghost.com
 DOMAIN-SUFFIX,requestmetrics.com
