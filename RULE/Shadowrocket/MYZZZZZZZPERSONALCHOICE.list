@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-07
+# updated: 2023-11-08
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,annas-blog.org
 DOMAIN-SUFFIX,anti-ad.net
 DOMAIN-SUFFIX,api.ipfighter.com
+DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,asmrhub.site
 DOMAIN-SUFFIX,asmrs.live
 DOMAIN,asset.onekey-asset.com
@@ -85,12 +86,14 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,dyxs31.com
 DOMAIN,e16991.b.akamaiedge.net
 DOMAIN-SUFFIX,ej666.com
+DOMAIN-SUFFIX,eascdn.net
 DOMAIN-SUFFIX,eloqua.com
 DOMAIN-SUFFIX,endnote.com
 DOMAIN-SUFFIX,enjing.com
 DOMAIN-SUFFIX,epaybc.com
 DOMAIN-SUFFIX,eureka.mba
 DOMAIN-SUFFIX,evan888.top
+DOMAIN-SUFFIX,expo.dev
 DOMAIN,feeds.bbci.co.uk
 DOMAIN,feeds.kottke.org
 DOMAIN-SUFFIX,facmata.net
@@ -152,6 +155,7 @@ DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,no626.com
 DOMAIN-KEYWORD,nobepay
 DOMAIN-SUFFIX,nobepay.com
+DOMAIN-SUFFIX,northghost.com
 DOMAIN,nsfw.abskoop.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,obsproject.com
