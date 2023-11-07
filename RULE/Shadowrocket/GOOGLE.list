@@ -811,6 +811,7 @@ IP-CIDR,74.125.28.188/32,no-resolve
 # 以下为自定义
 DOMAIN-SUFFIX,blazingcdn.net
 DOMAIN-SUFFIX,cdnsun.net
+DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,eascdn.net
 DOMAIN-SUFFIX,northghost.com
 DOMAIN-SUFFIX,requestmetrics.com
