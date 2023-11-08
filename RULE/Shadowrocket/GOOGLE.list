@@ -815,3 +815,4 @@ DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,eascdn.net
 DOMAIN-SUFFIX,northghost.com
 DOMAIN-SUFFIX,requestmetrics.com
+IP-CIDR,35.213.51.0/24,no-resolve
