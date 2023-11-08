@@ -817,6 +817,7 @@ DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
 DOMAIN-SUFFIX,northghost.com
 DOMAIN-SUFFIX,requestmetrics.com
+DOMAIN-SUFFIX,tapad.com
 IP-CIDR,35.213.42.0/24,no-resolve
 IP-CIDR,35.213.51.0/24,no-resolve
 IP-CIDR,35.213.65.0/24,no-resolve
