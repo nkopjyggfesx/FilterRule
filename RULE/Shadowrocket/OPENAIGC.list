@@ -19,6 +19,7 @@ DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,bingviz
 DOMAIN-SUFFIX,bingviz.com
+DOMAIN-SUFFIX,castway.net
 DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN,cdn.usefathom.com
