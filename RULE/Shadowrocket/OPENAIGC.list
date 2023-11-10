@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-11-08
+# updated: 2023-11-10
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -98,6 +98,7 @@ DOMAIN,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,shopvoxpopulus.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,static.metafi.codefi.network
 DOMAIN,static.xx.fbcdn.net
 DOMAIN-SUFFIX,statsigapi.net
