@@ -5,8 +5,6 @@
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Apple/Apple.list"
 DOMAIN-KEYWORD,apple-support.akadns.net
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
 DOMAIN-KEYWORD,testflight
@@ -30,3 +28,8 @@ IP-CIDR,205.180.175.0/24,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
 # End
+
+# 以下为自定义
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com
