@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-09
+# updated: 2023-11-10
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -98,6 +98,7 @@ DOMAIN,feeds.bbci.co.uk
 DOMAIN,feeds.kottke.org
 DOMAIN-SUFFIX,facmata.net
 DOMAIN-SUFFIX,feijicloud.com
+DOMAIN-SUFFIX,fenda.cloud
 DOMAIN-SUFFIX,fivebooks.com
 DOAMIN,fly.kogeki.dev
 DOMAIN-SUFFIX,fnf.one
@@ -143,6 +144,7 @@ DOMAIN-SUFFIX,laosu.ml
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN-SUFFIX,macreports.com
+DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,mmkk2.cn
 DOMAIN-SUFFIX,mobilelf.com
