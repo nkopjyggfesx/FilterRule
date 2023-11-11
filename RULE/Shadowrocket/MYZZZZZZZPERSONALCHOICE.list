@@ -200,6 +200,8 @@ DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,shyrz.me
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,smartproxy.com
+DOMAIN-KEYWORD,sms-activate
+DOMAIN-SUFFIX,sms-activate.org
 DOMAIN,software.charliemonroe.net
 DOMAIN-SUFFIX,sonobi.com
 DOMAIN-SUFFIX,soupian.app
