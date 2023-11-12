@@ -1,6 +1,6 @@
 # MICROSOFT
 # created: 2023-10-08
-# updated: 2023-10-25
+# updated: 2023-11-12
 # description:
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Bing/Bing.list"
@@ -732,6 +732,8 @@ USER-AGENT,OneDriveiOSApp*
 # End
 
 # 以下为自定义
+DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,mncdn.com
 DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,us.criteo.net
