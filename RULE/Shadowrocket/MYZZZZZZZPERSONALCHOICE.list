@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,northghost.com
 DOMAIN,nsfw.abskoop.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,obsproject.com
+DOMAIN-SUFFIX,omappapi.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
@@ -306,5 +307,6 @@ DOMAIN-SUFFIX,zz123.com
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
+IP-CIDR,50.17.52.222/32,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
