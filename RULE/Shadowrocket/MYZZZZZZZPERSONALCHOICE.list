@@ -310,3 +310,4 @@ IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
+IP-CIDR,99.84.230.0/24,no-resolve
