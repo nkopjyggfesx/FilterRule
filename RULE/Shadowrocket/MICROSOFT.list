@@ -730,7 +730,48 @@ DOMAIN-KEYWORD,skydrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 # End
-
+# "https://github.com/GMOogway/shadowrocket-rules"
+DOMAIN,bg.v4.a.dl.ws.microsoft.com
+DOMAIN,bg4.v4.a.dl.ws.microsoft.com
+DOMAIN,developer.microsoft.com
+DOMAIN-SUFFIX,developer.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,docs.microsoft.com
+DOMAIN,docs.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN-SUFFIX,download.microsoft.com
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
+DOMAIN,fs.microsoft.com
+DOMAIN-SUFFIX,fs.microsoft.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN,msgr.dlservice.microsoft.com
+DOMAIN,msgruser.dlservice.microsoft.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN,officecdn.microsoft.com
+DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN,qh.dlservice.microsoft.com
+DOMAIN-SUFFIX,qh.dlservice.microsoft.com
+DOMAIN,sdx.microsoft.com
+DOMAIN-SUFFIX,sdx.microsoft.com
+DOMAIN,silverlight.dlservice.microsoft.com
+DOMAIN-SUFFIX,silverlight.dlservice.microsoft.com
+DOMAIN,slupdate.dlservice.microsoft.com
+DOMAIN-SUFFIX,slupdate.dlservice.microsoft.com
+DOMAIN,storeedgefd.dsx.mp.microsoft.com
+DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+DOMAIN,wl.dlservice.microsoft.com
+DOMAIN-SUFFIX,wl.dlservice.microsoft.com
+DOMAIN,wscont1.apps.microsoft.com
+DOMAIN-SUFFIX,wscont1.apps.microsoft.com
+DOMAIN,wscont2.apps.microsoft.com
+DOMAIN-SUFFIX,wscont2.apps.microsoft.com
+DOMAIN,www.microsoft.com
+DOMAIN-SUFFIX,www.microsoft.com
+DOMAIN,xb.dlservice.microsoft.com
+# End
 # 以下为自定义
 DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,mncdn.com
