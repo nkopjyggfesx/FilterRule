@@ -10,3 +10,4 @@
 [@deezertidal](https://github.com/deezertidal/shadowrocket-rules)<br>
 [@missuo](https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list)<br>
 [@Liguangming](https://liguangming.com/Shadowrocket)
+[@GMOogway](https://github.com/GMOogway/shadowrocket-rules)
