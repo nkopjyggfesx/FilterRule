@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,f7tk.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-KEYWORD,forefront
+DOMAIN-SUFFIX,gist.build
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,gpt3sandbox.com
@@ -116,3 +117,4 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,widget.intercom.io
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,x.ai
+IP-CIDR,172.67.0.0/16,no-resolve
