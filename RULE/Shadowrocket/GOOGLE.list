@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2023-11-10
+# updated: 2023-11-13
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -811,8 +811,10 @@ IP-CIDR,74.125.28.188/32,no-resolve
 # 以下为自定义
 DOMAIN-SUFFIX,blazingcdn.net
 DOMAIN-SUFFIX,cdnsun.net
+DOMAIN-SUFFIX,cloud.gist.build
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,eascdn.net
+DOMAIN,gist-queue-consumer-api.cloud.gist.build
 DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
@@ -821,6 +823,8 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,requestmetrics.com
 DOMAIN-SUFFIX,tapad.com
 DOMAIN-SUFFIX,video.globo.com
+IP-CIDR,34.120.0.0/16,no-resolve
+IP-CIDR,34.120.32.0/24,no-resolve
 IP-CIDR,35.213.0.0/16,no-resolve
 IP-CIDR,35.213.37.0/24,no-resolve
 IP-CIDR,35.213.42.0/24,no-resolve
@@ -831,4 +835,3 @@ IP-CIDR,35.213.67.0/24,no-resolve
 IP-CIDR,35.213.85.0/24,no-resolve
 IP-CIDR,35.213.110.0/24,no-resolve
 IP-CIDR,35.213.111.0/24,no-resolve
-
