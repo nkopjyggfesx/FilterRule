@@ -808,12 +808,14 @@ IP-CIDR,74.125.23.188/32,no-resolve
 IP-CIDR,74.125.24.188/32,no-resolve
 IP-CIDR,74.125.28.188/32,no-resolve
 # End
+
 # 以下为自定义
 DOMAIN-SUFFIX,blazingcdn.net
 DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,cloud.gist.build
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,eascdn.net
+DOMAIN-SUFFIX,gettoby.com
 DOMAIN,gist-queue-consumer-api.cloud.gist.build
 DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,livechat.com
