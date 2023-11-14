@@ -118,4 +118,5 @@ DOMAIN,widget.intercom.io
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,x.ai
 IP-CIDR,104.21.0.0/16,no-resolve
+IP-CIDR,13.107.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
