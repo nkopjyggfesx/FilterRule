@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-13
+# updated: 2023-11-14
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -192,6 +192,7 @@ DOMAIN-SUFFIX,r.worldssl.net
 DOMAIN-SUFFIX,ranwen.la
 DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,rookiecloud.com
 DOMAIN-SUFFIX,rsm.global
 DOMAIN,rss.fakeye.xyz
@@ -307,6 +308,9 @@ DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zz123.com
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
+IP-CIDR,45.60.0.0/16,no-resolve
+IP-CIDR,45.60.152.0/24,no-resolve
+IP-CIDR,45.60.172.0/24,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
