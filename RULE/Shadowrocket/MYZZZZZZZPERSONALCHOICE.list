@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,annas-blog.org
 DOMAIN-SUFFIX,anti-ad.net
 DOMAIN-SUFFIX,api.ipfighter.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,asmrhub.site
 DOMAIN-SUFFIX,asmrs.live
 DOMAIN,asset.onekey-asset.com
@@ -306,6 +307,7 @@ DOMAIN-SUFFIX,zhikanlouzhu.com
 DOMAIN-SUFFIX,zlib-articles.se
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zz123.com
+IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
