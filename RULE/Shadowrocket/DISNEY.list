@@ -1,16 +1,9 @@
 # DISNEY
 # created: 2023-11-08
-# updated: 2023-11-08
+# updated: 2023-11-15
 # description: 
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Disney/Disney.list"
-# NAME: Disney
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:20:11
-# DOMAIN-SUFFIX: 171
-# USER-AGENT: 1
-# TOTAL: 172
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
