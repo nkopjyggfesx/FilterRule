@@ -217,6 +217,7 @@ DOMAIN-SUFFIX,sssoou.com
 DOMAIN-SUFFIX,sstrojan.com
 DOMAIN-SUFFIX,starcloud.win
 DOMAIN-SUFFIX,stent.icu
+DOMAIN-SUFFIX,stytch.com
 DOMAIN-SUFFIX,sub.store
 DOMAIN-SUFFIX,sunqi.org
 DOMAIN-SUFFIX,surfcloud.buzz
@@ -316,12 +317,15 @@ IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
+IP-CIDR,35.164.0.0/16,no-resolve
+IP-CIDR,35.81.0.0/16,no-resolve
 IP-CIDR,45.60.0.0/16,no-resolve
 IP-CIDR,45.60.152.0/24,no-resolve
 IP-CIDR,45.60.172.0/24,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
+IP-CIDR,52.26.0.0/16,no-resolve
 IP-CIDR,54.209.0.0/16,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
 IP-CIDR,99.84.230.0/24,no-resolve
