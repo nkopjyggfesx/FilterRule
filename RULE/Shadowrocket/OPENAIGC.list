@@ -73,6 +73,8 @@ DOMAIN-SUFFIX,lemonsqueezy.com
 DOMAIN-KEYWORD,midjourney
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.nooc.ink
@@ -110,6 +112,7 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
 DOMAIN-SUFFIX,swiftycdn.net
 DOMAIN-SUFFIX,tch.poe.com
+DOMAIN-SUFFIX,tcr9i.chat.openai.com
 DOMAIN-SUFFIX,theb.ai
 DOMAIN-SUFFIX,typingmind.com
 DOMAIN-SUFFIX,vimeo.com
@@ -123,5 +126,6 @@ IP-CIDR,13.107.0.0/16,no-resolve
 IP-CIDR,172.64.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,204.79.197.0/24,no-resolve
+IP-CIDR,2606:4700::/36,no-resolve
 IP-CIDR,2606:4700:4400::/48,no-resolve
 IP-CIDR,2620:1ec::/36,no-resolve
