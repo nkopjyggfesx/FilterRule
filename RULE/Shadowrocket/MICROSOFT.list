@@ -778,7 +778,12 @@ DOMAIN-SUFFIX,mncdn.com
 DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,us.criteo.net
+IP-CIDR,13.107.0.0/16,no-resolve
 IP-CIDR,20.0.0.0/8,no-resolve
+IP-CIDR,40.71.0.0/16,no-resolve
+IP-CIDR,52.153.0.0/16,no-resolve
+IP-CIDR,104.43.0.0/16,no-resolve
 IP-CIDR,2603:1010::/32,no-resolve
 IP-CIDR,2603:1020::/32,no-resolve
 IP-CIDR,2603:1030::/32,no-resolve
+IP-CIDR,2620:1ec:a92::/48,no-resolve
