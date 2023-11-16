@@ -120,6 +120,9 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,widget.intercom.io
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,you.com
+IP-CIDR,104.16.0.0/16,no-resolve
+IP-CIDR,104.17.0.0/16,no-resolve
 IP-CIDR,104.18.0.0/16,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,13.107.0.0/16,no-resolve
