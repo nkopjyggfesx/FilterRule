@@ -1,6 +1,6 @@
 # MICROSOFT
 # created: 2023-10-08
-# updated: 2023-11-13
+# updated: 2023-11-16
 # description:
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Bing/Bing.list"
@@ -778,3 +778,7 @@ DOMAIN-SUFFIX,mncdn.com
 DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,us.criteo.net
+IP-CIDR,20.0.0.0/8,no-resolve
+IP-CIDR,2603:1010::/32,no-resolve
+IP-CIDR,2603:1020::/32,no-resolve
+IP-CIDR,2603:1030::/32,no-resolve
