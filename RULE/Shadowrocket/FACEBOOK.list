@@ -1,6 +1,6 @@
 # FACEBOOK
 # created: 2023-11-08
-# updated: 2023-11-08
+# updated: 2023-11-16
 # description: 
 # note: 
 # “https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Facebook/Facebook.list”
@@ -688,4 +688,5 @@ DOMAIN-SUFFIX,threads.net
 
 # 以下为自定义
 IP-CIDR,2a03:2880::/32,no-resolve
+IP-CIDR,2a03:2880:f10a::/48,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
