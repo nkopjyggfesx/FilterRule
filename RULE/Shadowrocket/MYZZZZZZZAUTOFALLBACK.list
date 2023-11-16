@@ -1,6 +1,6 @@
 # MYZZZZZZZAUTOFALLBACK
 # created: 2023-10-08
-# updated: 2023-10-09
+# updated: 2023-11-16
 # description:
 # note: 
 DOMAIN-SUFFIX,app.adjust.com
@@ -17,8 +17,6 @@ DOMAIN-KEYWORD,masterduelmeta
 DOMAIN-SUFFIX,masterduelmeta.com
 DOMAIN-SUFFIX,mo.konami.net
 DOMAIN,mo.konami.net
-DOMAIN,raw.githubusercontent.com
-DOMAIN-SUFFIX,stacksocial.com
 DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,ubisoft
 DOMAIN-SUFFIX,yugioh-card.com
