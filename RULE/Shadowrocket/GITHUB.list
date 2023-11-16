@@ -37,4 +37,5 @@ DOMAIN-KEYWORD,github
 # End
 
 # 以下为自定义
+DOMAIN-SUFFIX,raw.githubusercontent.com
 IP-CIDR,192.30.255.0/24,no-resolve
