@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2023-11-13
+# updated: 2023-11-16
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -825,6 +825,8 @@ DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,requestmetrics.com
 DOMAIN-SUFFIX,tapad.com
 DOMAIN-SUFFIX,video.globo.com
+IP-CIDR,142.250.0.0/16,no-resolve
+IP-CIDR,2607:f8b0::/32,no-resolve
 IP-CIDR,34.120.0.0/16,no-resolve
 IP-CIDR,34.120.32.0/24,no-resolve
 IP-CIDR,35.213.0.0/16,no-resolve
