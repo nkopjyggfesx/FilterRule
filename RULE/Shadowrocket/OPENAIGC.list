@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-11-15
+# updated: 2023-11-16
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -117,8 +117,11 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN,widget.intercom.io
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,x.ai
+IP-CIDR,104.18.0.0/16,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,13.107.0.0/16,no-resolve
+IP-CIDR,172.64.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,204.79.197.0/24,no-resolve
+IP-CIDR,2606:4700:4400::/48,no-resolve
 IP-CIDR,2620:1ec::/36,no-resolve
