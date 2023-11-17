@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,allainews.com
 DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,allenpike.com
+DOMAIN-KEYWORD,ankiweb
+DOMAIN-SUFFIX,ankiweb.net
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,annas-blog.org
 DOMAIN-SUFFIX,anti-ad.net
@@ -65,7 +67,6 @@ DOMAIN-SUFFIX,c1rp.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN,card.onekey.so
 DOMAIN,card-server.onekey.so
-
 DOMAIN-SUFFIX,cdnperf-test.innertest.top
 DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,cgwallpapers.com
@@ -73,7 +74,6 @@ DOMAIN-KEYWORD,charliemonroe
 DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,cheapy.top
 DOMAIN-SUFFIX,chinadigitaltimes.net
-
 DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,clashsub.com
 DOMAIN-SUFFIX,clashx.pro
@@ -380,12 +380,14 @@ IP-CIDR,104.26.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
 IP-CIDR,123.201.0.0/16,no-resolve
 IP-CIDR,138.68.0.0/16,no-resolve
+IP-CIDR,142.132.136.0/24,no-resolve
 IP-CIDR,144.202.126.0/24,no-resolve
 IP-CIDR,144.34.0.0/16,no-resolve
 IP-CIDR,148.251.0.0/16,no-resolve
 IP-CIDR,15.197.0.0/16,no-resolve
 IP-CIDR,154.22.123.0/24,no-resolve
 IP-CIDR,162.247.141.0/24,no-resolve
+IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,172.66.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
