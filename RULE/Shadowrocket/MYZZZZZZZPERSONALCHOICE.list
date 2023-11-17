@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,aicpb.com
 DOMAIN-SUFFIX,aijichang.com
+DOMAIN-SUFFIX,allainews.com
 DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,allenpike.com
 DOMAIN-SUFFIX,annas-archive.org
@@ -112,6 +113,7 @@ DOMAIN-SUFFIX,fivebooks.com
 DOAMIN,fly.kogeki.dev
 DOMAIN-SUFFIX,fnf.one
 DOMAIN-SUFFIX,fomepay.com
+DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,fscloud.cc
 DOMAIN-KEYWORD,gcore
 DOMAIN-SUFFIX,gcore.com
@@ -142,6 +144,7 @@ DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,imok.top
 DOMAIN-SUFFIX,indieweb.social
+DOMAIN-SUFFIX,inessential.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipfighter.com
 DOMAIN-SUFFIX,isbndb.com
@@ -343,8 +346,9 @@ IP-CIDR,104.200.22.0/24,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,104.26.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
-IP-CIDR,144.202.126.0/8,no-resolve
-IP-CIDR,154.22.123.0/8,no-resolve
+IP-CIDR,144.202.126.0/24,no-resolve
+IP-CIDR,148.251.0.0/16,no-resolve
+IP-CIDR,154.22.123.0/24,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
@@ -357,6 +361,7 @@ IP-CIDR,2600:3c00::/32,no-resolve
 IP-CIDR,2600:9000:234c::/48,no-resolve
 IP-CIDR,2605:52c0::/32,no-resolve
 IP-CIDR,2606:4700::/32,no-resolve
+IP-CIDR,2a01:4f8::/32,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,35.164.0.0/16,no-resolve
@@ -378,5 +383,6 @@ IP-CIDR,54.250.0.0/16,no-resolve
 IP-CIDR,54.67.0.0/16,no-resolve
 IP-CIDR,57.180.0.0/16,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
+IP-CIDR,69.163.177.0/24,no-resolve
 IP-CIDR,76.76.0.0/16,no-resolve
 IP-CIDR,99.84.230.0/24,no-resolve
