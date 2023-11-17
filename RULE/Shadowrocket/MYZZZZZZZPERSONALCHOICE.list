@@ -26,11 +26,13 @@ DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91rb.com
 DOMAIN-SUFFIX,9gag.com
+DOMAIN-SUFFIX,a-nomad.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,aicpb.com
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,allencj.com
+DOMAIN-SUFFIX,allenpike.com
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,annas-blog.org
 DOMAIN-SUFFIX,anti-ad.net
@@ -100,6 +102,8 @@ DOMAIN-SUFFIX,expo.dev
 DOMAIN,feeds.bbci.co.uk
 DOMAIN,feeds.kottke.org
 DOMAIN-SUFFIX,facmata.net
+DOMAIN-SUFFIX,feedpress.me
+DOMAIN-SUFFIX,feeds.allenpike.com
 DOMAIN-SUFFIX,feijicloud.com
 DOMAIN-SUFFIX,fenda.cloud
 DOMAIN-SUFFIX,fivebooks.com
@@ -153,6 +157,7 @@ DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN-SUFFIX,macreports.com
 DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
+DOMAIN-SUFFIX,mjtsai.com
 DOMAIN-SUFFIX,mmkk2.cn
 DOMAIN-SUFFIX,mobilelf.com
 DOMAIN-SUFFIX,mofayun.online
@@ -187,6 +192,7 @@ DOMAIN-SUFFIX,piqsels.com
 DOMAIN-SUFFIX,pkeytool.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,politico.com
+DOMAIN-SUFFIX,poplite.xyz
 DOMAIN,portal.coffeecloud.top
 DOMAIN,producthunt.app.link
 DOMAIN,producthunt-alternate.app.link
@@ -208,6 +214,7 @@ DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,sentry-cdn
 DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,shadowrocket.one
 DOMAIN-SUFFIX,shyrz.me
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,smartproxy.com
@@ -262,6 +269,7 @@ DOMAIN-SUFFIX,uukanshu.com
 DOMAIN-SUFFIX,v2-tun.com
 DOMAIN-SUFFIX,v2fly.club
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,v2xtls.org
 DOMAIN,video-api.wsj.com
 DOMAIN-SUFFIX,vincode.io
 DOMAIN-SUFFIX,vpnxxw.com
@@ -325,12 +333,16 @@ DOMAIN-SUFFIX,zz123.com
 IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
+IP-CIDR,144.202.126.0/8,no-resolve
 IP-CIDR,154.22.123.0/8,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
+IP-CIDR,208.113.145.0/24,no-resolve
+IP-CIDR,2406:da14::/32,no-resolve
 IP-CIDR,2600:1f1c::/32,no-resolve
 IP-CIDR,2600:9000:234c::/48,no-resolve
+IP-CIDR,2605:52c0::/32,no-resolve
 IP-CIDR,2606:4700::/32,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
@@ -339,6 +351,8 @@ IP-CIDR,35.81.0.0/16,no-resolve
 IP-CIDR,45.60.0.0/16,no-resolve
 IP-CIDR,45.60.152.0/24,no-resolve
 IP-CIDR,45.60.172.0/24,no-resolve
+IP-CIDR,45.88.194.0/8,no-resolve
+IP-CIDR,5.135.16.0/24,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
@@ -347,6 +361,7 @@ IP-CIDR,52.26.0.0/16,no-resolve
 IP-CIDR,52.9.0.0/16,no-resolve
 IP-CIDR,54.177.0.0/16,no-resolve
 IP-CIDR,54.209.0.0/16,no-resolve
+IP-CIDR,54.250.0.0/16,no-resolve
 IP-CIDR,54.67.0.0/16,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
 IP-CIDR,76.76.0.0/16,no-resolve
