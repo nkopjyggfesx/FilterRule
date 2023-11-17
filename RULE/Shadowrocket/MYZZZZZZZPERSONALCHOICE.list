@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,beckyhansmeyer.com
 DOMAIN,best.kogeki.dev
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bityun.org
+DOMAIN-SUFFIX,blazingcdn.net
 DOMAIN,blog.xm.mk
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bookauthority.org
@@ -64,15 +65,19 @@ DOMAIN-SUFFIX,c1rp.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN,card.onekey.so
 DOMAIN,card-server.onekey.so
+
 DOMAIN-SUFFIX,cdnperf-test.innertest.top
+DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,cgwallpapers.com
 DOMAIN-KEYWORD,charliemonroe
 DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,cheapy.top
 DOMAIN-SUFFIX,chinadigitaltimes.net
+
 DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,clashsub.com
 DOMAIN-SUFFIX,clashx.pro
+DOMAIN-SUFFIX,cloud.gist.build
 DOMAIN,cn.nytimes.com
 DOMAIN-SUFFIX,cn.nytimes.com
 DOMAIN,cn.wsj.com
@@ -80,6 +85,7 @@ DOMAIN-KEYWORD,codecademy
 DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,colsrch.cn
 DOMAIN-SUFFIX,coo.lol
+DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,cs61a.org
 DOMAIN-SUFFIX,csdiy.wiki
 DOMAIN-KEYWORD,dandanzan
@@ -127,11 +133,14 @@ DOMAIN-KEYWORD,gcorelabs
 DOMAIN-SUFFIX,gcorelabs.com
 DOMAIN-SUFFIX,geekerline.com
 DOMAIN-SUFFIX,gequbao.com
+DOMAIN-SUFFIX,gettoby.com
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,giphy.com
+DOMAIN,gist-queue-consumer-api.cloud.gist.build
 DOMAIN-SUFFIX,glados.network
 DOMAIN-SUFFIX,glados.rocks
 DOMAIN-SUFFIX,globa.com
+DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,gloria.social
 DOMAIN-SUFFIX,go.sonobi.com
 DOMAIN-SUFFIX,googlevoice.top
@@ -167,6 +176,8 @@ DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,laosu.ml
 DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,livechat.com
+DOMAIN-SUFFIX,livechatinc.com
 DOMAIN-SUFFIX,logcg.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN-SUFFIX,macreports.com
@@ -200,6 +211,7 @@ DOMAIN-SUFFIX,onefoottsunami.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN,onekey.zendesk.com
+DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,owenyoung.com
 DOMAIN-SUFFIX,ozabc.com
 DOMAIN-SUFFIX,pandavpnpro.com
@@ -223,6 +235,7 @@ DOMAIN-SUFFIX,r.worldssl.net
 DOMAIN-SUFFIX,ranchero.com
 DOMAIN-SUFFIX,ranwen.la
 DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,requestmetrics.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,riskified.com
 DOMAIN-SUFFIX,rookiecloud.com
@@ -264,6 +277,7 @@ DOMAIN-SUFFIX,swag.live
 DOMAIN-SUFFIX,t.eloqua.com
 DOMAIN-SUFFIX,taishan.pro
 DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-SUFFIX,tapad.com
 DOMAIN-KEYWORD,tbsdy
 DOMAIN-SUFFIX,tbsdy.cc
 DOMAIN-SUFFIX,tbsdy.com
@@ -294,6 +308,7 @@ DOMAIN-SUFFIX,v2-tun.com
 DOMAIN-SUFFIX,v2fly.club
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,v2xtls.org
+DOMAIN-SUFFIX,video.globo.com
 DOMAIN,video-api.wsj.com
 DOMAIN-SUFFIX,vincode.io
 DOMAIN-SUFFIX,vpnxxw.com
