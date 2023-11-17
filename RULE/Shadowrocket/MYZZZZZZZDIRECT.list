@@ -27,6 +27,7 @@ DOMAIN-KEYWORD,hetushu
 DOMAIN-SUFFIX,hetushu.com
 DOMAIN-KEYWORD,hrbust
 DOMAIN-SUFFIX,iot-tencent.com
+DOMAIN-SUFFIX,jichanggo.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,lswld.com
 DOMAIN-SUFFIX,mathpix.com
@@ -49,3 +50,4 @@ DOMAIN-KEYWORD,xzxpay
 DOMAIN,yacd.haishan.me
 DOMAIN-KEYWORD,zanao
 DOMAIN-SUFFIX,zanao.com
+IP-CIDR,103.135.248.0/8,no-resolve
