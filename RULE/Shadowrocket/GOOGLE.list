@@ -810,21 +810,6 @@ IP-CIDR,74.125.28.188/32,no-resolve
 # End
 
 # 以下为自定义
-DOMAIN-SUFFIX,blazingcdn.net
-DOMAIN-SUFFIX,cdnsun.net
-DOMAIN-SUFFIX,cloud.gist.build
-DOMAIN-SUFFIX,criteo.com
-DOMAIN-SUFFIX,eascdn.net
-DOMAIN-SUFFIX,gettoby.com
-DOMAIN,gist-queue-consumer-api.cloud.gist.build
-DOMAIN-SUFFIX,globo.com
-DOMAIN-SUFFIX,livechat.com
-DOMAIN-SUFFIX,livechatinc.com
-DOMAIN-SUFFIX,northghost.com
-DOMAIN-SUFFIX,openx.net
-DOMAIN-SUFFIX,requestmetrics.com
-DOMAIN-SUFFIX,tapad.com
-DOMAIN-SUFFIX,video.globo.com
 IP-CIDR,142.250.0.0/16,no-resolve
 IP-CIDR,2607:f8b0::/32,no-resolve
 IP-CIDR,34.120.0.0/16,no-resolve
