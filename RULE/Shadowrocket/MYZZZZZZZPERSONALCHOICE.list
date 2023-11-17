@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,googo.us
 DOMAIN-SUFFIX,gptocean.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,guolicheng.cc
+DOMAIN-SUFFIX,hly0928.com
 DOMAIN-SUFFIX,hoothin.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN,i.ss01.net
@@ -158,6 +159,8 @@ DOMAIN-SUFFIX,mofayun.online
 DOMAIN-SUFFIX,mozhua.app
 DOMAIN-SUFFIX,miaona.xyz
 DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,netlify.com
 DOMAIN-KEYWORD,netnewswire
 DOMAIN-SUFFIX,newlearner.site
 DOMAIN-SUFFIX,nexitally.com
@@ -298,6 +301,7 @@ DOMAIN,www.v2ex.com
 DOMAIN,www.zcxswang.cc
 DOMAIN,www.zhanghao.cc
 DOMAIN-SUFFIX,x2download.com
+DOMAIN-SUFFIX,xiaoz.org
 DOMAIN-SUFFIX,xijinping.store
 DOMAIN-KEYWORD,xmind
 DOMAIN-SUFFIX,xmind.app
@@ -321,11 +325,13 @@ DOMAIN-SUFFIX,zz123.com
 IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
+IP-CIDR,154.22.123.0/8,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
-IP-CIDR,2606:4700::/32,no-resolve
+IP-CIDR,2600:1f1c::/32,no-resolve
 IP-CIDR,2600:9000:234c::/48,no-resolve
+IP-CIDR,2606:4700::/32,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,35.164.0.0/16,no-resolve
@@ -336,8 +342,12 @@ IP-CIDR,45.60.172.0/24,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
+IP-CIDR,50.18.0.0/16,no-resolve
 IP-CIDR,52.26.0.0/16,no-resolve
+IP-CIDR,52.9.0.0/16,no-resolve
+IP-CIDR,54.177.0.0/16,no-resolve
 IP-CIDR,54.209.0.0/16,no-resolve
+IP-CIDR,54.67.0.0/16,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
 IP-CIDR,76.76.0.0/16,no-resolve
 IP-CIDR,99.84.230.0/24,no-resolve
