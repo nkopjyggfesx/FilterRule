@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,fnf.one
 DOMAIN-SUFFIX,fomepay.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,fscloud.cc
+DOMAIN-SUFFIX,fullstory.com
 DOMAIN-KEYWORD,gcore
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcore.lu
@@ -385,6 +386,7 @@ IP-CIDR,138.68.0.0/16,no-resolve
 IP-CIDR,142.132.136.0/24,no-resolve
 IP-CIDR,144.202.126.0/24,no-resolve
 IP-CIDR,144.34.0.0/16,no-resolve
+IP-CIDR,147.75.40.0/24,no-resolve
 IP-CIDR,148.251.0.0/16,no-resolve
 IP-CIDR,15.197.0.0/16,no-resolve
 IP-CIDR,154.22.123.0/24,no-resolve
