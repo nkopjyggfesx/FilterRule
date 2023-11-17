@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,1milk.top
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,23img.com
+DOMAIN-SUFFIX,25748s.ha.azioncdn.net
 DOMAIN-SUFFIX,25img.com
 DOMAIN-SUFFIX,360proxy.com
 DOMAIN-SUFFIX,36d.uk
@@ -244,6 +245,7 @@ DOMAIN-SUFFIX,rss.app
 DOMAIN,rss.fakeye.xyz
 DOMAIN-SUFFIX,rss.fakeye.xyz
 DOMAIN-SUFFIX,rsshub.app
+DOMAIN-SUFFIX,rum.perfops.mdb.cdn.orange.com
 DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,s.super-copy.com
 DOMAIN-KEYWORD,sci-hub
@@ -391,6 +393,7 @@ IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,172.66.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
+IP-CIDR,179.191.186.0/24,no-resolve
 IP-CIDR,18.166.0.0/16,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.170.0.0/16,no-resolve
@@ -407,6 +410,7 @@ IP-CIDR,2605:52c0::/32,no-resolve
 IP-CIDR,2606:4700::/32,no-resolve
 IP-CIDR,2a01:238::/32,no-resolve
 IP-CIDR,2a01:4f8::/32,no-resolve
+IP-CIDR,2a01:c9c0:c00c::/48,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.115.0.0/16,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
@@ -436,6 +440,7 @@ IP-CIDR,57.180.0.0/16,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
 IP-CIDR,69.163.177.0/24,no-resolve
 IP-CIDR,76.76.0.0/16,no-resolve
+IP-CIDR,80.15.255.0/24,no-resolve
 IP-CIDR,81.169.0.0/16,no-resolve
 IP-CIDR,9.220.0.0/16,no-resolve
 IP-CIDR,99.84.230.0/24,no-resolve
