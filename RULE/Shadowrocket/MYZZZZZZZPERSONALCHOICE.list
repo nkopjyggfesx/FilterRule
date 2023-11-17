@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-16
+# updated: 2023-11-17
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,googo.us
 DOMAIN-SUFFIX,gptocean.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,guolicheng.cc
+DOMAIN-SUFFIX,hoothin.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN,i.ss01.net
 DOMAIN-SUFFIX,imgur.io
@@ -233,6 +234,7 @@ DOMAIN-KEYWORD,tbsdy
 DOMAIN-SUFFIX,tbsdy.cc
 DOMAIN-SUFFIX,tbsdy.com
 DOMAIN-SUFFIX,techsolutions.support.com
+DOMAIN-SUFFIX,techxiaofei.com
 DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,terobox.com
@@ -317,8 +319,13 @@ DOMAIN-SUFFIX,zlib-articles.se
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zz123.com
 IP-CIDR,104.122.0.0/16,no-resolve
+IP-CIDR,104.21.0.0/16,no-resolve
+IP-CIDR,108.138.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
+IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
+IP-CIDR,2606:4700::/32,no-resolve
+IP-CIDR,2600:9000:234c::/48,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,35.164.0.0/16,no-resolve
@@ -332,4 +339,5 @@ IP-CIDR,50.17.52.222/32,no-resolve
 IP-CIDR,52.26.0.0/16,no-resolve
 IP-CIDR,54.209.0.0/16,no-resolve
 IP-CIDR,67.202.105.34/32,no-resolve
+IP-CIDR,76.76.0.0/16,no-resolve
 IP-CIDR,99.84.230.0/24,no-resolve
