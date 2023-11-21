@@ -207,6 +207,7 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,download.qcpp1.net
 DOMAIN-SUFFIX,download.qpdp1.net
+DOMAIN-SUFFIX,emlcdn.net
 DOMAIN-SUFFIX,episodic.com
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
@@ -563,6 +564,7 @@ DOMAIN-SUFFIX,lanternal.com
 DOMAIN-SUFFIX,like.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,mcusercontent.com
 DOMAIN-SUFFIX,mdialog.com
 DOMAIN-SUFFIX,meet.new
 DOMAIN-SUFFIX,mfg-inspector.com
@@ -816,6 +818,7 @@ IP-CIDR,2607:f8b0::/32,no-resolve
 IP-CIDR,34.120.0.0/16,no-resolve
 IP-CIDR,34.120.32.0/24,no-resolve
 IP-CIDR,34.149.0.0/16,no-resolve
+IP-CIDR,34.96.0.0/16,no-resolve
 IP-CIDR,35.186.0.0/16,no-resolve
 IP-CIDR,35.213.0.0/16,no-resolve
 IP-CIDR,35.213.37.0/24,no-resolve
