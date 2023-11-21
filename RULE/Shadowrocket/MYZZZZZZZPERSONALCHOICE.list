@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-18
+# updated: 2023-11-21
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,bookauthority.org
 DOMAIN-SUFFIX,bookshuku.com
 DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,brightspotcdn.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,bundlehunt.com
@@ -173,13 +174,16 @@ DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN-SUFFIX,jike.info
 DOMAIN-SUFFIX,kanunu8.com
 DOMAIN-SUFFIX,kcssr.xyz
+DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-KEYWORD,kjkkk
 DOMAIN-SUFFIX,kjkkk.top
 DOMAIN-SUFFIX,kogeki.dev
 DOMAIN-SUFFIX,kottke.org
 DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,kyivindependent.com
 DOMAIN-SUFFIX,laosu.ml
+DOMAIN-SUFFIX,lifeinnorway.net
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
@@ -189,6 +193,7 @@ DOMAIN-SUFFIX,macreports.com
 DOMAIN-SUFFIX,manton.org
 DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
+DOMAIN-SUFFIX,miu11.one
 DOMAIN-SUFFIX,mjtsai.com
 DOMAIN-SUFFIX,mmkk2.cn
 DOMAIN-SUFFIX,mobilelf.com
@@ -229,7 +234,10 @@ DOMAIN-SUFFIX,pkeytool.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,politico.com
 DOMAIN-SUFFIX,poplite.xyz
+DOMAIN-SUFFIX,popsugar.com
+DOMAIN-SUFFIX,popsugar-assets.com
 DOMAIN,portal.coffeecloud.top
+DOMAIN-SUFFIX,privacy-mgmt.com
 DOMAIN,producthunt.app.link
 DOMAIN,producthunt-alternate.app.link
 DOMAIN-KEYWORD,producthunt
@@ -297,6 +305,7 @@ DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,thecryptobreakdown.com
 DOMAIN-SUFFIX,thefreedictionary.com
+DOMAIN-SUFFIX,thesprucecrafts.com
 DOMAIN-SUFFIX,thisav.org
 DOMAIN-SUFFIX,tigg.cc
 DOMAIN-SUFFIX,todoist
@@ -309,6 +318,8 @@ DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,typeform.com
 DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,usabilla.com
+DOMAIN-SUFFIX,usbla.net
 DOMAIN-SUFFIX,uukanshu.com
 DOMAIN-SUFFIX,v2-tun.com
 DOMAIN-SUFFIX,v2fly.club
@@ -322,6 +333,7 @@ DOMAIN-SUFFIX,vox.com
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallpapers.com
 DOMAIN-SUFFIX,wallpapersmug.com
+DOMAIN-SUFFIX,wd-cloud.net
 DOMAIN,web.dashsp.top
 DOMAIN,webact.185.hk
 DOMAIN-SUFFIX,weekly.howie6879.com
@@ -392,6 +404,7 @@ IP-CIDR,144.34.0.0/16,no-resolve
 IP-CIDR,147.75.40.0/24,no-resolve
 IP-CIDR,148.251.0.0/16,no-resolve
 IP-CIDR,15.197.0.0/16,no-resolve
+IP-CIDR,151.101.0.0/16,no-resolve
 IP-CIDR,154.22.123.0/24,no-resolve
 IP-CIDR,162.247.141.0/24,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
@@ -417,6 +430,7 @@ IP-CIDR,2a01:238::/32,no-resolve
 IP-CIDR,2a01:4f8::/32,no-resolve
 IP-CIDR,2a01:c9c0:c00c::/48,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
+IP-CIDR,2a04:4e42::/32,no-resolve
 IP-CIDR,3.115.0.0/16,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,3.33.0.0/16,no-resolve
