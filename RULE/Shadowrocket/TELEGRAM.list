@@ -59,3 +59,5 @@ IP-ASN,62041,no-resolve
 
 # 以下为自定义
 IP-CIDR,149.154.167.0/24,no-resolve
+IP-CIDR,149.154.171.0/24,no-resolve
+IP-CIDR,149.154.175.0/24,no-resolve
