@@ -1,6 +1,6 @@
 # TELEGRAM
 # created: 2023-10-08
-# updated: 2023-10-08
+# updated: 2023-11-21
 # description:
 # note: 
 # "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt" 
@@ -56,3 +56,6 @@ IP-ASN,59930,no-resolve
 IP-ASN,62014,no-resolve
 IP-ASN,62041,no-resolve
 # ----------
+
+# 以下为自定义
+IP-CIDR,149.154.167.0/24,no-resolve
