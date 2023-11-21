@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,bookauthority.org
 DOMAIN-SUFFIX,bookshuku.com
 DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,braze-images.com
 DOMAIN-SUFFIX,brightspotcdn.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,btloader.com
@@ -414,6 +415,7 @@ DOMAIN-SUFFIX,zz123.com
 IP-CIDR,103.170.72.0/24,no-resolve
 IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,104.18.0.0/16,no-resolve
+IP-CIDR,104.19.0.0/16,no-resolve
 IP-CIDR,104.200.22.0/24,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,104.26.0.0/16,no-resolve
