@@ -425,6 +425,7 @@ IP-CIDR,148.251.0.0/16,no-resolve
 IP-CIDR,15.197.0.0/16,no-resolve
 IP-CIDR,151.101.0.0/16,no-resolve
 IP-CIDR,154.22.123.0/24,no-resolve
+IP-CIDR,162.159.0.0/16,no-resolve
 IP-CIDR,162.247.141.0/24,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
