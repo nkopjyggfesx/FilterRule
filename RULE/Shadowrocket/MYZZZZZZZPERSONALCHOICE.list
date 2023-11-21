@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91rb.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,a-nomad.com
+DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,agilebits.com
@@ -69,6 +70,7 @@ DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,brightspotcdn.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,btloader.com
 DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,bundlehunt.com
 DOMAIN-SUFFIX,c1rp.com
@@ -198,6 +200,7 @@ DOMAIN-SUFFIX,logcg.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN-SUFFIX,macreports.com
 DOMAIN-SUFFIX,manton.org
+DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,miu11.one
@@ -213,6 +216,7 @@ DOMAIN-SUFFIX,netlify.com
 DOMAIN-KEYWORD,netnewswire
 DOMAIN-SUFFIX,newlearner.site
 DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,nitrocnct.com
 DOMAIN-SUFFIX,nitropay.com
 DOMAIN-SUFFIX,no626.com
 DOMAIN-KEYWORD,nobepay
@@ -220,6 +224,7 @@ DOMAIN-SUFFIX,nobepay.com
 DOMAIN-SUFFIX,northcountrygazette.org
 DOMAIN-SUFFIX,northghost.com
 DOMAIN,nsfw.abskoop.com
+DOMAIN-SUFFIX,nslookup.io
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,omappapi.com
@@ -270,10 +275,12 @@ DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,rum.perfops.mdb.cdn.orange.com
 DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,s.super-copy.com
+DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,sentry-cdn
 DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,shadowrocket.one
+DOMAIN-SUFFIX,sharethrough.com
 DOMAIN-SUFFIX,shyrz.me
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,smartproxy.com
@@ -327,6 +334,7 @@ DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,typeform.com
+DOMAIN-SUFFIX,unrulymedia.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,usabilla.com
 DOMAIN-SUFFIX,usbla.net
