@@ -1,6 +1,6 @@
 # DISCORD
 # created: 2023-10-08
-# updated: 2023-11-08
+# updated: 2023-11-21
 # description: 
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Discord/Discord.list"
@@ -35,9 +35,18 @@ DOMAIN-SUFFIX,watchanimeattheoffice.com
 # End
 
 #以下为自制
+IP-CIDR,66.22.204.0/24,no-resolve
+IP-CIDR,66.22.206.0/24,no-resolve
+IP-CIDR,66.22.212.0/24,no-resolve
+IP-CIDR,66.22.214.0/24,no-resolve
 IP-CIDR,66.22.218.0/24,no-resolve
 IP-CIDR,66.22.219.0/24,no-resolve
 IP-CIDR,66.22.220.0/24,no-resolve
 IP-CIDR,66.22.221.0/24,no-resolve
+IP-CIDR,66.22.222.0/24,no-resolve
+IP-CIDR,66.22.223.0/24,no-resolve
+IP-CIDR,66.22.224.0/24,no-resolve
+IP-CIDR,66.22.231.0/24,no-resolve
 IP-CIDR,66.22.239.0/24,no-resolve
 IP-CIDR,66.22.242.0/24,no-resolve
+IP-CIDR,66.22.245.0/24,no-resolve
