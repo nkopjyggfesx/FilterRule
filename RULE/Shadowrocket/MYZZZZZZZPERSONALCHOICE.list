@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,clashsub.com
 DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,cloud.gist.build
+DOMAIN-SUFFIX,cmail20.com
 DOMAIN,cn.nytimes.com
 DOMAIN-SUFFIX,cn.nytimes.com
 DOMAIN,cn.wsj.com
@@ -469,10 +470,12 @@ IP-CIDR,5.135.16.0/24,no-resolve
 IP-CIDR,5.213.0.0/16,no-resolve
 IP-CIDR,5.28.194.45/32,no-resolve
 IP-CIDR,5.28.195.80/32,no-resolve
+IP-CIDR,50.112.0.0/16,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
 IP-CIDR,50.18.0.0/16,no-resolve
 IP-CIDR,52.217.0.0/16,no-resolve
 IP-CIDR,52.26.0.0/16,no-resolve
+IP-CIDR,52.36.0.0/16,no-resolve
 IP-CIDR,52.9.0.0/16,no-resolve
 IP-CIDR,54.0.0.0/8,no-resolve
 IP-CIDR,54.177.0.0/16,no-resolve
