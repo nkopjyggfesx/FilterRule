@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-21
+# updated: 2023-11-22
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,backend.getdrafts.com
 DOMAIN-SUFFIX,beckyhansmeyer.com
+DOMAIN-SUFFIX,beehiiv.com
 DOMAIN,best.kogeki.dev
 DOMAIN-SUFFIX,bidswitch.com
 DOMAIN-SUFFIX,bing.com
@@ -100,6 +101,7 @@ DOMAIN-SUFFIX,cn.nytimes.com
 DOMAIN,cn.wsj.com
 DOMAIN-KEYWORD,codecademy
 DOMAIN-SUFFIX,codecademy.com
+DOMAIN-SUFFIX,colacloud.site
 DOMAIN-SUFFIX,colossusssp.com
 DOMAIN-SUFFIX,colsrch.cn
 DOMAIN-SUFFIX,contextweb.com
@@ -176,6 +178,7 @@ DOMAIN-SUFFIX,hly0928.com
 DOMAIN-SUFFIX,hoothin.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,howie6879.com
+DOMAIN-SUFFIX,hubapi.com
 DOMAIN,i.ss01.net
 DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,immersivetranslate.com
@@ -186,7 +189,9 @@ DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipaddressguide.com
 DOMAIN-SUFFIX,ipfighter.com
+DOMAIN-SUFFIX,iponweb.net
 DOMAIN-SUFFIX,isbndb.com
+DOMAIN-SUFFIX,iterable.com
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN-SUFFIX,jike.info
@@ -201,8 +206,11 @@ DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,kyivindependent.com
 DOMAIN-SUFFIX,laosu.ml
+DOMAIN-SUFFIX,liadm.com
 DOMAIN-SUFFIX,lifeinnorway.net
+DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
 DOMAIN-SUFFIX,logcg.com
@@ -244,6 +252,7 @@ DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN,onekey.zendesk.com
 DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,overwall.run
 DOMAIN-SUFFIX,owenyoung.com
 DOMAIN-SUFFIX,ozabc.com
 DOMAIN-SUFFIX,pandavpnpro.com
@@ -287,6 +296,7 @@ DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,s.super-copy.com
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-KEYWORD,sci-hub
+DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-KEYWORD,sentry-cdn
 DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,shadowrocket.one
@@ -305,6 +315,8 @@ DOMAIN-SUFFIX,ss.mba
 DOMAIN-SUFFIX,sspinet.com
 DOMAIN-SUFFIX,sssoou.com
 DOMAIN-SUFFIX,sstrojan.com
+DOMAIN-SUFFIX,stackassets.com
+DOMAIN-SUFFIX,stackcommerce.com
 DOMAIN-SUFFIX,stacksocial.com
 DOMAIN-SUFFIX,starcloud.win
 DOMAIN-SUFFIX,stent.icu
@@ -315,6 +327,7 @@ DOMAIN-SUFFIX,surfcloud.buzz
 DOMAIN-SUFFIX,suying00.com
 DOMAIN-SUFFIX,suyunti.com
 DOMAIN-SUFFIX,swag.live
+DOMAIN-SUFFIX,syncbits.com
 DOMAIN-SUFFIX,t.eloqua.com
 DOMAIN-SUFFIX,taishan.pro
 DOMAIN-SUFFIX,tampermonkey.net
@@ -368,6 +381,7 @@ DOMAIN-SUFFIX,weekly.howie6879.com
 DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN-SUFFIX,winisle.com
 DOMAIN-SUFFIX,wired.com
+DOMAIN-SUFFIX,wiz.money
 DOMAIN-SUFFIX,worldssl.net
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wuyong.fun
@@ -418,6 +432,7 @@ DOMAIN-SUFFIX,zhuiyingmao2.com
 DOMAIN-SUFFIX,zlib-articles.se
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zz123.com
+IP-CIDR,100.0.0.0/8,no-resolve
 IP-CIDR,103.170.72.0/24,no-resolve
 IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,104.18.0.0/16,no-resolve
@@ -427,6 +442,7 @@ IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,104.26.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
 IP-CIDR,123.201.0.0/16,no-resolve
+IP-CIDR,13.226.0.0/16,no-resolve
 IP-CIDR,138.68.0.0/16,no-resolve
 IP-CIDR,142.132.136.0/24,no-resolve
 IP-CIDR,144.202.126.0/24,no-resolve
@@ -441,16 +457,20 @@ IP-CIDR,162.159.0.0/16,no-resolve
 IP-CIDR,162.247.141.0/24,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
+IP-CIDR,167.89.0.0/16,no-resolve
 IP-CIDR,172.66.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,179.191.186.0/24,no-resolve
+IP-CIDR,18.155.0.0/16,no-resolve
 IP-CIDR,18.166.0.0/16,no-resolve
+IP-CIDR,18.200.0.0/16,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.170.0.0/16,no-resolve
 IP-CIDR,2001:4868:10c::/48,no-resolve
 IP-CIDR,203.187.0.0/16,no-resolve
 IP-CIDR,203.187.215.0/24,no-resolve
+IP-CIDR,205.201.132.0/24,no-resolve
 IP-CIDR,206.233.133.0/24,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
 IP-CIDR,208.113.145.0/24,no-resolve
@@ -458,6 +478,7 @@ IP-CIDR,2406:da14::/32,no-resolve
 IP-CIDR,2600:1f18::/32,no-resolve
 IP-CIDR,2600:1f1c::/32,no-resolve
 IP-CIDR,2600:3c00::/32,no-resolve
+IP-CIDR,2600:9000::/32,no-resolve
 IP-CIDR,2600:9000:234c::/48,no-resolve
 IP-CIDR,2605:52c0::/32,no-resolve
 IP-CIDR,2606:4700::/32,no-resolve
@@ -472,6 +493,7 @@ IP-CIDR,3.33.0.0/16,no-resolve
 IP-CIDR,34.149.0.0/16,no-resolve
 IP-CIDR,34.224.0.0/16,no-resolve
 IP-CIDR,35.164.0.0/16,no-resolve
+IP-CIDR,35.172.0.0/16,no-resolve
 IP-CIDR,35.212.0.0/16,no-resolve
 IP-CIDR,35.81.0.0/16,no-resolve
 IP-CIDR,45.60.0.0/16,no-resolve
