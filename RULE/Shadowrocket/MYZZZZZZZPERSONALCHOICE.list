@@ -251,6 +251,7 @@ DOMAIN-SUFFIX,onefoottsunami.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN,onekey.zendesk.com
+DOMAIN-SUFFIX,openexchangerates.org
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,overwall.run
 DOMAIN-SUFFIX,owenyoung.com
@@ -311,6 +312,7 @@ DOMAIN,software.charliemonroe.net
 DOMAIN-SUFFIX,sonobi.com
 DOMAIN-SUFFIX,soupian.app
 DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,spmailtechnol.com
 DOMAIN-SUFFIX,ss.mba
 DOMAIN-SUFFIX,sspinet.com
 DOMAIN-SUFFIX,sssoou.com
@@ -509,9 +511,11 @@ IP-CIDR,5.28.195.80/32,no-resolve
 IP-CIDR,50.112.0.0/16,no-resolve
 IP-CIDR,50.17.52.222/32,no-resolve
 IP-CIDR,50.18.0.0/16,no-resolve
+IP-CIDR,52.200.0.0/16,no-resolve
 IP-CIDR,52.217.0.0/16,no-resolve
 IP-CIDR,52.26.0.0/16,no-resolve
 IP-CIDR,52.36.0.0/16,no-resolve
+IP-CIDR,52.71.0.0/16,no-resolve
 IP-CIDR,52.9.0.0/16,no-resolve
 IP-CIDR,54.0.0.0/8,no-resolve
 IP-CIDR,54.177.0.0/16,no-resolve
