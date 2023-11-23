@@ -186,6 +186,7 @@ DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,imok.top
 DOMAIN-SUFFIX,indieweb.social
 DOMAIN-SUFFIX,inessential.com
+DOMAIN-SUFFIX,intergient.com
 DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipaddressguide.com
@@ -278,6 +279,7 @@ DOMAIN,producthunt.app.link
 DOMAIN,producthunt-alternate.app.link
 DOMAIN-KEYWORD,producthunt
 DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,pub.network
 DOMAIN-SUFFIX,qust.me
 DOMAIN-SUFFIX,qwilt.com
 DOMAIN-SUFFIX,r.worldssl.net
@@ -353,6 +355,7 @@ DOMAIN-SUFFIX,thecryptobreakdown.com
 DOMAIN-SUFFIX,thefreedictionary.com
 DOMAIN-SUFFIX,thesprucecrafts.com
 DOMAIN-SUFFIX,thisav.org
+DOMAIN-SUFFIX,tidiochat.com
 DOMAIN-SUFFIX,tigg.cc
 DOMAIN-SUFFIX,todoist
 DOMAIN,todoist.b-cdn.net
@@ -386,6 +389,7 @@ DOMAIN,webact.185.hk
 DOMAIN-SUFFIX,weekly.howie6879.com
 DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,whatismyipaddress.info
 DOMAIN-SUFFIX,winisle.com
 DOMAIN-SUFFIX,wired.com
 DOMAIN-SUFFIX,wiz.money
@@ -504,6 +508,7 @@ IP-CIDR,35.164.0.0/16,no-resolve
 IP-CIDR,35.172.0.0/16,no-resolve
 IP-CIDR,35.212.0.0/16,no-resolve
 IP-CIDR,35.81.0.0/16,no-resolve
+IP-CIDR,35.84.0.0/16,no-resolve
 IP-CIDR,45.60.0.0/16,no-resolve
 IP-CIDR,45.60.152.0/24,no-resolve
 IP-CIDR,45.60.172.0/24,no-resolve
@@ -525,6 +530,7 @@ IP-CIDR,52.71.0.0/16,no-resolve
 IP-CIDR,52.9.0.0/16,no-resolve
 IP-CIDR,54.0.0.0/8,no-resolve
 IP-CIDR,54.177.0.0/16,no-resolve
+IP-CIDR,54.200.0.0/16,no-resolve
 IP-CIDR,54.209.0.0/16,no-resolve
 IP-CIDR,54.231.0.0/16,no-resolve
 IP-CIDR,54.238.0.0/16,no-resolve
