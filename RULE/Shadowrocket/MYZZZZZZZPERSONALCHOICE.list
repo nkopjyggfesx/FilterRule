@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-22
+# updated: 2023-11-23
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,asmrhub.site
 DOMAIN-SUFFIX,asmrs.live
 DOMAIN,asset.onekey-asset.com
+DOMAIN-SUFFIX,automattic.com
 DOMAIN,avatars.doist.com
 DOMAIN-SUFFIX,avavz.com
 DOMAIN-SUFFIX,avjb.com
@@ -244,6 +245,8 @@ DOMAIN-SUFFIX,northghost.com
 DOMAIN,nsfw.abskoop.com
 DOMAIN-SUFFIX,nslookup.io
 DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,observablehq.com
+DOMAIN-SUFFIX,observableusercontent.com
 DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,omappapi.com
 DOMAIN-SUFFIX,onedrive.live.com
@@ -269,6 +272,7 @@ DOMAIN-SUFFIX,poplite.xyz
 DOMAIN-SUFFIX,popsugar.com
 DOMAIN-SUFFIX,popsugar-assets.com
 DOMAIN,portal.coffeecloud.top
+DOMAIN-SUFFIX,pressablecdn.com
 DOMAIN-SUFFIX,privacy-mgmt.com
 DOMAIN,producthunt.app.link
 DOMAIN,producthunt-alternate.app.link
@@ -470,6 +474,7 @@ IP-CIDR,18.200.0.0/16,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.170.0.0/16,no-resolve
+IP-CIDR,198.181.117.0/24,no-resolve
 IP-CIDR,2001:4868:10c::/48,no-resolve
 IP-CIDR,203.187.0.0/16,no-resolve
 IP-CIDR,203.187.215.0/24,no-resolve
