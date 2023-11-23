@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,backend.getdrafts.com
 DOMAIN-SUFFIX,beckyhansmeyer.com
 DOMAIN-SUFFIX,beehiiv.com
 DOMAIN,best.kogeki.dev
+DOMAIN-SUFFIX,betterdisplay.pro
 DOMAIN-SUFFIX,bidswitch.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bitswitch.com
@@ -456,6 +457,7 @@ IP-CIDR,104.26.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
 IP-CIDR,123.201.0.0/16,no-resolve
 IP-CIDR,13.226.0.0/16,no-resolve
+IP-CIDR,13.57.0.0/16,no-resolve
 IP-CIDR,138.68.0.0/16,no-resolve
 IP-CIDR,142.132.136.0/24,no-resolve
 IP-CIDR,144.202.126.0/24,no-resolve
