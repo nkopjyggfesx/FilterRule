@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-23
+# updated: 2023-11-24
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -210,6 +210,8 @@ DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,kyivindependent.com
 DOMAIN-SUFFIX,laosu.ml
+DOMAIN-SUFFIX,lemonsqueezy.com
+DOMAIN-SUFFIX,lemonsqueezy-mail.com
 DOMAIN-SUFFIX,liadm.com
 DOMAIN-SUFFIX,lifeinnorway.net
 DOMAIN-SUFFIX,lijit.com
@@ -225,6 +227,7 @@ DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,miaona.xyz
+DOMAIN-SUFFIX,micro.blog
 DOMAIN-SUFFIX,miu11.one
 DOMAIN-SUFFIX,mjtsai.com
 DOMAIN-SUFFIX,mmkk2.cn
@@ -270,6 +273,7 @@ DOMAIN-SUFFIX,piaotian.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,piqsels.com
 DOMAIN-SUFFIX,pkeytool.com
+DOMAIN-SUFFIX,pndsn.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,politico.com
 DOMAIN-SUFFIX,poplite.xyz
@@ -429,6 +433,8 @@ DOMAIN-SUFFIX,xijinping.store
 DOMAIN-KEYWORD,xmind
 DOMAIN-SUFFIX,xmind.app
 DOMAIN-SUFFIX,xmind.net
+DOMAIN-SUFFIX,xn--6nq44r2pg9mj.com
+DOMAIN-SUFFIX,xpoti.com
 DOMAIN-SUFFIX,xykmovie.com
 DOMAIN-KEYWORD,yazhouse8
 DOMAIN-SUFFIX,yazhouse8.com
@@ -531,6 +537,7 @@ IP-CIDR,50.18.0.0/16,no-resolve
 IP-CIDR,52.200.0.0/16,no-resolve
 IP-CIDR,52.217.0.0/16,no-resolve
 IP-CIDR,52.26.0.0/16,no-resolve
+IP-CIDR,52.35.0.0/16,no-resolve
 IP-CIDR,52.36.0.0/16,no-resolve
 IP-CIDR,52.71.0.0/16,no-resolve
 IP-CIDR,52.9.0.0/16,no-resolve
