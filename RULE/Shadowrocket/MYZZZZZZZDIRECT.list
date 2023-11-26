@@ -1,6 +1,6 @@
 # MYZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-11-17
+# updated: 2023-11-26
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,jichanggo.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,lswld.com
 DOMAIN-SUFFIX,mathpix.com
+DOMAIN-SUFFIX,mo.konami.net,direct
 DOMAIN-KEYWORD,myunidays
 DOMAIN-SUFFIX,ntp.nasa.gov
 DOMAIN-SUFFIX,openaboc.cn
@@ -45,8 +46,12 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
+DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-KEYWORD,xzxpay
 DOMAIN,yacd.haishan.me
 DOMAIN-KEYWORD,zanao
 DOMAIN-SUFFIX,zanao.com
-IP-CIDR,103.135.248.0/8,no-resolve
+IP-CIDR,103.135.248.0/24,no-resolve
+IP-CIDR,111.0.0.0/8,no-resolve
+IP-CIDR,115.236.0.0/16,no-resolve
+IP-CIDR,120.0.0.0/8,no-resolve
