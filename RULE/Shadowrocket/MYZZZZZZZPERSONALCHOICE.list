@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-24
+# updated: 2023-11-26
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,annas-blog.org
 DOMAIN-SUFFIX,anti-ad.net
 DOMAIN-SUFFIX,api.ipfighter.com
+DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,asmrhub.site
@@ -292,6 +293,8 @@ DOMAIN-SUFFIX,qwilt.com
 DOMAIN-SUFFIX,r.worldssl.net
 DOMAIN-SUFFIX,ranchero.com
 DOMAIN-SUFFIX,ranwen.la
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,requestmetrics.com
 DOMAIN-SUFFIX,reuters.com
@@ -485,6 +488,7 @@ IP-CIDR,179.191.186.0/24,no-resolve
 IP-CIDR,18.155.0.0/16,no-resolve
 IP-CIDR,18.166.0.0/16,no-resolve
 IP-CIDR,18.200.0.0/16,no-resolve
+IP-CIDR,185.151.204.0/24,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.170.0.0/16,no-resolve
