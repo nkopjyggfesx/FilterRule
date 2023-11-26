@@ -1,6 +1,6 @@
 # MYZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-11-26
+# updated: 2023-11-27
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -12,7 +12,10 @@ DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,bscabank.com
 DOMAIN,clash.razord.top
+DOMAIN-SUFFIX,db.yugioh-card.com
 DOMAIN,dns.weixin.com
+DOMAIN-SUFFIX,db.yugioh-card.com
+DOMAIN-SUFFIX,duellinksmeta.com
 DOMAIN-SUFFIX,openaboc.com.cn
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,coolshell.cn
@@ -30,6 +33,7 @@ DOMAIN-SUFFIX,jichanggo.com
 DOMAIN-SUFFIX,konami.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,lswld.com
+DOMAIN-SUFFIX,masterduelmeta.com
 DOMAIN-SUFFIX,mathpix.com
 DOMAIN-SUFFIX,mo.konami.net,direct
 DOMAIN-KEYWORD,myunidays
