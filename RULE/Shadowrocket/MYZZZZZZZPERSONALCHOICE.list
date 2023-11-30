@@ -1,11 +1,13 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-27
+# updated: 2023-11-30
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
 DOMAIN-SUFFIX,1milk.top
+DOMAIN-SUFFIX,1password.co
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.community
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,23img.com
 DOMAIN-SUFFIX,25748s.ha.azioncdn.net
@@ -85,6 +87,7 @@ DOMAIN-SUFFIX,c1rp.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN,card.onekey.so
 DOMAIN,card-server.onekey.so
+DOMAIN-SUFFIX,cdn1ve3zg.com
 DOMAIN-SUFFIX,cdnperf-test.innertest.top
 DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,cedexis.com
@@ -93,6 +96,7 @@ DOMAIN-SUFFIX,cedexis-test.com
 DOMAIN-SUFFIX,cgwallpapers.com
 DOMAIN-KEYWORD,charliemonroe
 DOMAIN-SUFFIX,charliemonroe.net
+DOMAIN-SUFFIX,chatra-usercontent.com
 DOMAIN-SUFFIX,cheapy.top
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,citrix.com
@@ -120,6 +124,7 @@ DOMAIN-SUFFIX,daringfireball.net
 DOMAIN-SUFFIX,ddxs.com
 DOMAIN-SUFFIX,digitalnomadlc.com
 DOMAIN-SUFFIX,divineengine.net
+DOMAIN-SUFFIX,djgskc.top
 DOMAIN-SUFFIX,djsfenxiang.com
 DOMAIN-SUFFIX,doist.com
 DOMAIN-KEYWORD,downiestatistics
@@ -132,6 +137,7 @@ DOMAIN-SUFFIX,dyxs31.com
 DOMAIN,e16991.b.akamaiedge.net
 DOMAIN-SUFFIX,ej666.com
 DOMAIN-SUFFIX,eascdn.net
+DOMAIN-SUFFIX,eleven.observer
 DOMAIN-SUFFIX,eloqua.com
 DOMAIN-SUFFIX,endnote.com
 DOMAIN-SUFFIX,enjing.com
@@ -191,6 +197,7 @@ DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,imok.top
 DOMAIN-SUFFIX,indieweb.social
 DOMAIN-SUFFIX,inessential.com
+DOMAIN-SUFFIX,innologica.com
 DOMAIN-SUFFIX,intergient.com
 DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ip-api.com
@@ -204,10 +211,12 @@ DOMAIN-SUFFIX,jamesdailylife.com
 DOMAIN-SUFFIX,jike.info
 DOMAIN-SUFFIX,kanunu8.com
 DOMAIN-SUFFIX,kcssr.xyz
+DOMAIN-SUFFIX,keepersecurity.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-KEYWORD,kjkkk
 DOMAIN-SUFFIX,kjkkk.top
 DOMAIN-SUFFIX,kk25114.shop
+DOMAIN-SUFFIX,klxq永遠的神.top
 DOMAIN-SUFFIX,kogeki.dev
 DOMAIN-SUFFIX,kottke.org
 DOMAIN-SUFFIX,kq8.com
@@ -225,6 +234,7 @@ DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
 DOMAIN-SUFFIX,logcg.com
 DOMAIN,lookup-api.apple.com.edgekey.net
+DOMAIN-SUFFIX,lwjyj.com
 DOMAIN-SUFFIX,macreports.com
 DOMAIN-SUFFIX,manton.org
 DOMAIN-SUFFIX,media.net
@@ -285,6 +295,7 @@ DOMAIN-SUFFIX,poplite.xyz
 DOMAIN-SUFFIX,popsugar.com
 DOMAIN-SUFFIX,popsugar-assets.com
 DOMAIN,portal.coffeecloud.top
+DOMAIN-SUFFIX,powerinboxedge.com
 DOMAIN-SUFFIX,pressablecdn.com
 DOMAIN-SUFFIX,privacy-mgmt.com
 DOMAIN,producthunt.app.link
@@ -356,6 +367,7 @@ DOMAIN-SUFFIX,sxjf8789.com
 DOMAIN-SUFFIX,syncbits.com
 DOMAIN-SUFFIX,t.eloqua.com
 DOMAIN-SUFFIX,taishan.pro
+DOMAIN-SUFFIX,takeshi.wiki
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,tapad.com
 DOMAIN-KEYWORD,tbsdy
@@ -441,11 +453,14 @@ DOMAIN,www.zhanghao.cc
 DOMAIN-SUFFIX,x2download.com
 DOMAIN-SUFFIX,xiaoz.org
 DOMAIN-SUFFIX,xijinping.store
+DOMAIN-SUFFIX,ximicloud.net
+DOMAIN-SUFFIX,ximicloud.xyz
 DOMAIN-KEYWORD,xmind
 DOMAIN-SUFFIX,xmind.app
 DOMAIN-SUFFIX,xmind.net
 DOMAIN-SUFFIX,xn--6nq44r2pg9mj.com
 DOMAIN-SUFFIX,xpoti.com
+DOMAIN-SUFFIX,xsus.wiki
 DOMAIN-SUFFIX,xykmovie.com
 DOMAIN-KEYWORD,yazhouse8
 DOMAIN-SUFFIX,yazhouse8.com
@@ -525,6 +540,7 @@ IP-CIDR,2a04:4e42::/32,no-resolve
 IP-CIDR,3.115.0.0/16,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,3.33.0.0/16,no-resolve
+IP-CIDR,33.34.239.0/24,no-resolve
 IP-CIDR,34.149.0.0/16,no-resolve
 IP-CIDR,34.224.0.0/16,no-resolve
 IP-CIDR,35.164.0.0/16,no-resolve
