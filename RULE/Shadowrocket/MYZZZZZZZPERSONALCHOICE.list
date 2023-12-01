@@ -297,6 +297,7 @@ DOMAIN-SUFFIX,poplite.xyz
 DOMAIN-SUFFIX,popsugar.com
 DOMAIN-SUFFIX,popsugar-assets.com
 DOMAIN,portal.coffeecloud.top
+DOMAIN-SUFFIX,postrelease.com
 DOMAIN-SUFFIX,powerinboxedge.com
 DOMAIN-SUFFIX,pressablecdn.com
 DOMAIN-SUFFIX,privacy-mgmt.com
@@ -514,6 +515,7 @@ IP-CIDR,179.191.186.0/24,no-resolve
 IP-CIDR,18.155.0.0/16,no-resolve
 IP-CIDR,18.166.0.0/16,no-resolve
 IP-CIDR,18.200.0.0/16,no-resolve
+IP-CIDR,184.169.191.0/24,no-resolve
 IP-CIDR,185.151.204.0/24,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
