@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-11-30
+# updated: 2023-12-01
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,clashios.com
 DOMAIN-SUFFIX,clashsub.com
 DOMAIN-SUFFIX,clashx.pro
+DOMAIN-SUFFIX,clock.via.net
 DOMAIN-SUFFIX,cloud.gist.build
 DOMAIN-SUFFIX,cmail20.com
 DOMAIN,cn.nytimes.com
@@ -524,6 +525,7 @@ IP-CIDR,205.201.132.0/24,no-resolve
 IP-CIDR,206.233.133.0/24,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
 IP-CIDR,208.113.145.0/24,no-resolve
+IP-CIDR,209.81.9.0/24,no-resolve
 IP-CIDR,2406:da14::/32,no-resolve
 IP-CIDR,2600:1f18::/32,no-resolve
 IP-CIDR,2600:1f1c::/32,no-resolve
