@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,dyxs31.com
 DOMAIN,e16991.b.akamaiedge.net
 DOMAIN-SUFFIX,ej666.com
 DOMAIN-SUFFIX,eascdn.net
+DOMAIN-SUFFIX,ekiga.net
 DOMAIN-SUFFIX,eleven.observer
 DOMAIN-SUFFIX,eloqua.com
 DOMAIN-SUFFIX,endnote.com
@@ -198,6 +199,7 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,howie6879.com
 DOMAIN-SUFFIX,hubapi.com
 DOMAIN,i.ss01.net
+DOMAIN-SUFFIX,ideasip.com
 DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,imok.top
@@ -602,6 +604,7 @@ IP-CIDR,69.194.143.0/24,no-resolve
 IP-CIDR,76.76.0.0/16,no-resolve
 IP-CIDR,80.15.255.0/24,no-resolve
 IP-CIDR,81.169.0.0/16,no-resolve
+IP-CIDR,86.64.0.0/16,no-resolve
 IP-CIDR,9.220.0.0/16,no-resolve
 IP-CIDR,96.126.99.0/24,no-resolve
 IP-CIDR,99.84.230.0/24,no-resolve
