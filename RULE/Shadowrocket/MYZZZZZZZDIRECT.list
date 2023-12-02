@@ -1,6 +1,6 @@
 # MYZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-11-27
+# updated: 2023-12-02
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,db.yugioh-card.com
 DOMAIN,dns.weixin.com
 DOMAIN-SUFFIX,duellinksmeta.com
 DOMAIN-KEYWORD,eudic
+DOMAIN-SUFFIX,ftq.wiki
 DOMAIN,gg.caixin.com
 DOMAIN-KEYWORD,goodnotes
 DOMAIN-SUFFIX,goodnotes.com
@@ -64,3 +65,4 @@ IP-CIDR,120.0.0.0/8,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,47.76.0.0/16,no-resolve
