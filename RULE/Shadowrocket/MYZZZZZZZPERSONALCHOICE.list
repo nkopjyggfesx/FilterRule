@@ -1,6 +1,6 @@
 # MYZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-12-01
+# updated: 2023-12-02
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -31,8 +31,10 @@ DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91rb.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,a-nomad.com
+DOMAIN-SUFFIX,ace-taffy.com
 DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,aicpb.com
@@ -49,6 +51,7 @@ DOMAIN-SUFFIX,anylogic.com
 DOMAIN-SUFFIX,api.ipfighter.com
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,app.adjust.com
+DOMAIN-SUFFIX,appcloudcdn.com
 DOMAIN-SUFFIX,appleinsider.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
@@ -88,6 +91,7 @@ DOMAIN-SUFFIX,c1rp.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN,card.onekey.so
 DOMAIN,card-server.onekey.so
+DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cdn1ve3zg.com
 DOMAIN-SUFFIX,cdnperf-test.innertest.top
 DOMAIN-SUFFIX,cdnsun.net
@@ -257,6 +261,7 @@ DOMAIN-SUFFIX,netlify.com
 DOMAIN-KEYWORD,netnewswire
 DOMAIN-SUFFIX,newlearner.site
 DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,night-furyx.com
 DOMAIN-SUFFIX,nitrocnct.com
 DOMAIN-SUFFIX,nitropay.com
 DOMAIN-SUFFIX,no626.com
@@ -264,6 +269,7 @@ DOMAIN-KEYWORD,nobepay
 DOMAIN-SUFFIX,nobepay.com
 DOMAIN-SUFFIX,northcountrygazette.org
 DOMAIN-SUFFIX,northghost.com
+DOMAIN-SUFFIX,notability.com
 DOMAIN,nsfw.abskoop.com
 DOMAIN-SUFFIX,nslookup.io
 DOMAIN-SUFFIX,nytimes.com
@@ -330,6 +336,7 @@ DOMAIN-SUFFIX,rum.perfops.mdb.cdn.orange.com
 DOMAIN-SUFFIX,runtufenxiang.com
 DOMAIN-SUFFIX,s.super-copy.com
 DOMAIN-SUFFIX,s.yiios.com
+DOMAIN-SUFFIX,saururus.ink
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,sendgrid.net
@@ -396,6 +403,7 @@ DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,todoist.net
 DOMAIN,tool.yibook.org
 DOMAIN-SUFFIX,trine.wang
+DOMAIN-SUFFIX,truenet.cloud
 DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,typeform.com
@@ -455,6 +463,7 @@ DOMAIN,www.v2ex.com
 DOMAIN,www.zcxswang.cc
 DOMAIN,www.zhanghao.cc
 DOMAIN-SUFFIX,x2download.com
+DOMAIN-SUFFIX,xfx.ink
 DOMAIN-SUFFIX,xiaoz.org
 DOMAIN-SUFFIX,xijinping.store
 DOMAIN-SUFFIX,ximicloud.net
@@ -463,6 +472,7 @@ DOMAIN-KEYWORD,xmind
 DOMAIN-SUFFIX,xmind.app
 DOMAIN-SUFFIX,xmind.net
 DOMAIN-SUFFIX,xn--6nq44r2pg9mj.com
+DOMAIN-SUFFIX,xn--mes13h09douj.com
 DOMAIN-SUFFIX,xpoti.com
 DOMAIN-SUFFIX,xsus.wiki
 DOMAIN-SUFFIX,xykmovie.com
@@ -509,6 +519,7 @@ IP-CIDR,162.247.141.0/24,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,167.89.0.0/16,no-resolve
+IP-CIDR,172.37.0.0/16,no-resolve
 IP-CIDR,172.66.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
 IP-CIDR,179.191.186.0/24,no-resolve
