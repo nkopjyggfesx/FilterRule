@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,cedexis-test.com
 DOMAIN-SUFFIX,cgwallpapers.com
 DOMAIN-KEYWORD,charliemonroe
 DOMAIN-SUFFIX,charliemonroe.net
+DOMAIN-SUFFIX,chatnio.net
 DOMAIN-SUFFIX,chatra-usercontent.com
 DOMAIN-SUFFIX,cheapy.top
 DOMAIN-SUFFIX,chinadigitaltimes.net
@@ -539,6 +540,7 @@ IP-CIDR,203.187.0.0/16,no-resolve
 IP-CIDR,203.187.215.0/24,no-resolve
 IP-CIDR,205.201.132.0/24,no-resolve
 IP-CIDR,206.233.133.0/24,no-resolve
+IP-CIDR,206.237.0.0/16,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
 IP-CIDR,208.113.145.0/24,no-resolve
 IP-CIDR,209.81.9.0/24,no-resolve
