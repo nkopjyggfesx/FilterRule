@@ -813,7 +813,6 @@ IP-CIDR,74.125.28.188/32,no-resolve
 # End
 
 # 以下为自定义
-DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,rs.fullstory.com
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN,voice.telephony.goog
