@@ -1,6 +1,6 @@
 # MYZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-12-02
+# updated: 2023-12-04
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,abchina.com
 DOMAIN,ad.12306.cn
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,bscabank.com
 DOMAIN,clash.razord.top
@@ -53,6 +54,7 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,www.applilink.jp
 DOMAIN-KEYWORD,xzxpay
 DOMAIN,yacd.haishan.me
 DOMAIN-KEYWORD,zanao
