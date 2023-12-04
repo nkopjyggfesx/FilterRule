@@ -292,6 +292,7 @@ DOMAIN-SUFFIX,observablehq.com
 DOMAIN-SUFFIX,observableusercontent.com
 DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,omappapi.com
+DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,oneapi.cc
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onefoottsunami.com
@@ -560,6 +561,7 @@ IP-CIDR,198.181.117.0/24,no-resolve
 IP-CIDR,2001:4868:10c::/48,no-resolve
 IP-CIDR,203.187.0.0/16,no-resolve
 IP-CIDR,203.187.215.0/24,no-resolve
+IP-CIDR,204.128.250.0/24,no-resolve
 IP-CIDR,205.201.132.0/24,no-resolve
 IP-CIDR,206.233.133.0/24,no-resolve
 IP-CIDR,206.237.0.0/16,no-resolve
