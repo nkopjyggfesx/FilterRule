@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qzzn.com
 DOMAIN,sdkapp.uve.weibo.com
+DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,ucweb.com
@@ -67,4 +68,5 @@ IP-CIDR,120.0.0.0/8,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,203.107.0.0/16,no-resolve
 IP-CIDR,47.76.0.0/16,no-resolve
