@@ -42,7 +42,9 @@ DOMAIN-SUFFIX,ntp.nasa.gov
 DOMAIN-SUFFIX,openaboc.cn
 DOMAIN-SUFFIX,openaboc.com
 DOMAIN-SUFFIX,openaboc.com.cn
+DOMAIN-SUFFIX,people.cn
 DOMAIN-SUFFIX,peopletech.cn
+DOMAIN-SUFFIX,peopleurl.cn
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
@@ -71,4 +73,5 @@ IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,203.107.0.0/16,no-resolve
+IP-CIDR,43.250.238.0/24,no-resolve
 IP-CIDR,47.76.0.0/16,no-resolve
