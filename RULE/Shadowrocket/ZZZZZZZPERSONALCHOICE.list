@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,avjb.com
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,backend.getdrafts.com
+DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,beckyhansmeyer.com
 DOMAIN-SUFFIX,beehiiv.com
 DOMAIN,best.kogeki.dev
@@ -124,6 +125,8 @@ DOMAIN-SUFFIX,cmail20.com
 DOMAIN,cn.nytimes.com
 DOMAIN-SUFFIX,cn.nytimes.com
 DOMAIN,cn.wsj.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnrocket.top
 DOMAIN-KEYWORD,codecademy
 DOMAIN-SUFFIX,codecademy.com
@@ -438,6 +441,7 @@ DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,thecryptobreakdown.com
 DOMAIN-SUFFIX,thefreedictionary.com
+DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,thesprucecrafts.com
 DOMAIN-SUFFIX,thisav.org
 DOMAIN-SUFFIX,tidiochat.com
@@ -453,6 +457,7 @@ DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,tumutanzi.com
 DOMAIN-SUFFIX,tw93.fun
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,typeform.com
@@ -481,6 +486,7 @@ DOMAIN-SUFFIX,weekly.howie6879.com
 DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,whatismyipaddress.info
+DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,winisle.com
 DOMAIN-SUFFIX,wired.com
 DOMAIN-SUFFIX,wiz.money
@@ -512,6 +518,7 @@ DOMAIN,www.thisiscolossal.com
 DOMAIN,www.v2ex.com
 DOMAIN,www.zcxswang.cc
 DOMAIN,www.zhanghao.cc
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x2download.com
 DOMAIN-SUFFIX,xfx.ink
 DOMAIN-SUFFIX,xiaoz.org
