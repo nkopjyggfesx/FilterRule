@@ -266,6 +266,7 @@ DOMAIN-SUFFIX,macreports.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,manton.org
+DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meomiao.xyz
@@ -582,6 +583,7 @@ IP-CIDR,185.184.8.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.170.0.0/16,no-resolve
 IP-CIDR,198.181.117.0/24,no-resolve
+IP-CIDR,2a04:4e42:c00::/48,no-resolve
 IP-CIDR,2001:4868:10c::/48,no-resolve
 IP-CIDR,203.187.0.0/16,no-resolve
 IP-CIDR,203.187.215.0/24,no-resolve
