@@ -189,6 +189,7 @@ DOMAIN-SUFFIX,gettoby.com
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,giphy.com
 DOMAIN,gist-queue-consumer-api.cloud.gist.build
+DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,glados.network
 DOMAIN-SUFFIX,glados.rocks
 DOMAIN-SUFFIX,globa.com
@@ -444,6 +445,7 @@ DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,truenet.cloud
 DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,tumutanzi.com
+DOMAIN-SUFFIX,tw93.fun
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,tynt.com
