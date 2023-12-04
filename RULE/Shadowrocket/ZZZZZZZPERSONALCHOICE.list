@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,anylogic.com
 DOMAIN-SUFFIX,api.ipfighter.com
 DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,appcloudcdn.com
+DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appleinsider.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
@@ -111,10 +112,13 @@ DOMAIN-SUFFIX,clashsub.com
 DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,clock.via.net
 DOMAIN-SUFFIX,cloud.gist.build
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cmail20.com
 DOMAIN,cn.nytimes.com
 DOMAIN-SUFFIX,cn.nytimes.com
 DOMAIN,cn.wsj.com
+DOMAIN-SUFFIX,cnrocket.top
 DOMAIN-KEYWORD,codecademy
 DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,colacloud.site
@@ -123,6 +127,7 @@ DOMAIN-SUFFIX,colsrch.cn
 DOMAIN-SUFFIX,contextweb.com
 DOMAIN-SUFFIX,coo.lol
 DOMAIN-SUFFIX,cootlogix.com
+DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,cs61a.org
 DOMAIN-SUFFIX,csdiy.wiki
@@ -243,12 +248,15 @@ DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
+DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,logcg.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN-SUFFIX,lwjyj.com
 DOMAIN-SUFFIX,macreports.com
+DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,manton.org
 DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,miaona.xyz
@@ -267,6 +275,7 @@ DOMAIN-KEYWORD,netnewswire
 DOMAIN-SUFFIX,newlearner.site
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,night-furyx.com
+DOMAIN-SUFFIX,nit.ro
 DOMAIN-SUFFIX,nitrocnct.com
 DOMAIN-SUFFIX,nitropay.com
 DOMAIN-SUFFIX,no626.com
@@ -317,6 +326,7 @@ DOMAIN,producthunt-alternate.app.link
 DOMAIN-KEYWORD,producthunt
 DOMAIN-SUFFIX,producthunt.com
 DOMAIN-SUFFIX,pub.network
+DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,qust.me
 DOMAIN-SUFFIX,qwilt.com
 DOMAIN-SUFFIX,r.worldssl.net
@@ -446,6 +456,7 @@ DOMAIN-SUFFIX,wired.com
 DOMAIN-SUFFIX,wiz.money
 DOMAIN-SUFFIX,worldssl.net
 DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wuyong.fun
 DOMAIN,www.1000qm.vip
 DOMAIN,www.555ys1.com
@@ -495,6 +506,8 @@ DOMAIN-SUFFIX,yout.com
 DOMAIN-SUFFIX,yqq11.com
 DOMAIN-SUFFIX,yummy.best
 DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,zhikanlouzhu.com
 DOMAIN-KEYWORD,zhuiyingmao
 DOMAIN-SUFFIX,zhuiyingmao2.com
@@ -512,6 +525,7 @@ IP-CIDR,104.26.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
 IP-CIDR,123.201.0.0/16,no-resolve
 IP-CIDR,13.226.0.0/16,no-resolve
+IP-CIDR,13.35.0.0/16,no-resolve
 IP-CIDR,13.57.0.0/16,no-resolve
 IP-CIDR,138.68.0.0/16,no-resolve
 IP-CIDR,142.132.136.0/24,no-resolve
@@ -536,6 +550,7 @@ IP-CIDR,18.155.0.0/16,no-resolve
 IP-CIDR,18.166.0.0/16,no-resolve
 IP-CIDR,18.200.0.0/16,no-resolve
 IP-CIDR,184.169.191.0/24,no-resolve
+IP-CIDR,184.25.0.0/16,no-resolve
 IP-CIDR,185.151.204.0/24,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
@@ -550,9 +565,11 @@ IP-CIDR,206.237.0.0/16,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
 IP-CIDR,208.113.145.0/24,no-resolve
 IP-CIDR,209.81.9.0/24,no-resolve
+IP-CIDR,23.60.0.0/16,no-resolve
 IP-CIDR,2406:da14::/32,no-resolve
 IP-CIDR,2600:1f18::/32,no-resolve
 IP-CIDR,2600:1f1c::/32,no-resolve
+IP-CIDR,2600:1409::/32,no-resolve
 IP-CIDR,2600:3c00::/32,no-resolve
 IP-CIDR,2600:3c01::/32,no-resolve
 IP-CIDR,2600:9000::/32,no-resolve
@@ -569,6 +586,7 @@ IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,3.33.0.0/16,no-resolve
 IP-CIDR,33.34.239.0/24,no-resolve
 IP-CIDR,34.149.0.0/16,no-resolve
+IP-CIDR,34.210.0.0/16,no-resolve
 IP-CIDR,34.224.0.0/16,no-resolve
 IP-CIDR,35.164.0.0/16,no-resolve
 IP-CIDR,35.172.0.0/16,no-resolve
@@ -598,6 +616,7 @@ IP-CIDR,52.71.0.0/16,no-resolve
 IP-CIDR,52.9.0.0/16,no-resolve
 IP-CIDR,54.0.0.0/8,no-resolve
 IP-CIDR,54.177.0.0/16,no-resolve
+IP-CIDR,54.186.0.0/16,no-resolve
 IP-CIDR,54.200.0.0/16,no-resolve
 IP-CIDR,54.209.0.0/16,no-resolve
 IP-CIDR,54.231.0.0/16,no-resolve
