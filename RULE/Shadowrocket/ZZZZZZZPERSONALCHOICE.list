@@ -94,6 +94,7 @@ DOMAIN,card.onekey.so
 DOMAIN,card-server.onekey.so
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cdn1ve3zg.com
+DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cdnperf-test.innertest.top
 DOMAIN-SUFFIX,cdnsun.net
 DOMAIN-SUFFIX,cedexis.com
@@ -249,6 +250,7 @@ DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
+DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,logcg.com
 DOMAIN,lookup-api.apple.com.edgekey.net
@@ -310,6 +312,8 @@ DOMAIN-SUFFIX,ozabc.com
 DOMAIN-SUFFIX,pandavpnpro.com
 DOMAIN-SUFFIX,pbairen.xyz
 DOMAIN-SUFFIX,pepcn.com
+DOMAIN-SUFFIX,perfops.io
+DOMAIN-SUFFIX,perfops.net
 DOMAIN-SUFFIX,piaotian.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,piqsels.com
