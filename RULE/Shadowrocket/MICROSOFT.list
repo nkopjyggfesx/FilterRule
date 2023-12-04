@@ -774,6 +774,7 @@ DOMAIN,xb.dlservice.microsoft.com
 # End
 # 以下为自定义
 DOMAIN-SUFFIX,criteo.net
+DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,mncdn.com
 DOMAIN-SUFFIX,msftstatic.com
@@ -786,6 +787,7 @@ IP-CIDR,20.81.0.0/16,no-resolve
 IP-CIDR,20.99.0.0/16,no-resolve
 IP-CIDR,40.71.0.0/16,no-resolve
 IP-CIDR,52.153.0.0/16,no-resolve
+IP-CIDR,52.250.0.0/16,no-resolve
 IP-CIDR,104.43.0.0/16,no-resolve
 IP-CIDR,2603:1010::/32,no-resolve
 IP-CIDR,2603:1020::/32,no-resolve
