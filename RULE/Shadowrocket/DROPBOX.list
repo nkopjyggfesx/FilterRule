@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 IP-CIDR,162.125.0.0/16,no-resolve
+IP-CIDR,2620:100:6040::/48,no-resolve
