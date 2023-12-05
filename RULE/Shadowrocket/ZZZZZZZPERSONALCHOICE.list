@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,a-nomad.com
 DOMAIN-SUFFIX,ace-taffy.com
 DOMAIN-SUFFIX,ad.gt
 DOMAIN-SUFFIX,ad-delivery.net
+DOMAIN-SUFFIX,adgrx.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adjust.com
@@ -157,12 +158,14 @@ DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-SUFFIX,daringfireball.net
 DOMAIN-SUFFIX,ddxs.com
+DOMAIN-SUFFIX,deepintent.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitalnomadlc.com
 DOMAIN-SUFFIX,divineengine.net
 DOMAIN-SUFFIX,djgskc.top
 DOMAIN-SUFFIX,djsfenxiang.com
 DOMAIN-SUFFIX,doist.com
+DOMAIN-SUFFIX,dotomi.com
 DOMAIN-KEYWORD,downiestatistics
 DOMAIN-SUFFIX,downiestatistics.com
 DOMAIN,dp.haiwaikan.com
@@ -259,6 +262,7 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipaddressguide.com
 DOMAIN-SUFFIX,ipfighter.com
 DOMAIN-SUFFIX,iponweb.net
+DOMAIN-SUFFIX,iprom.net
 DOMAIN-SUFFIX,isbndb.com
 DOMAIN-SUFFIX,iterable.com
 DOMAIN-SUFFIX,jable.tv
@@ -435,6 +439,7 @@ DOMAIN-SUFFIX,shop.51buygpt.net
 DOMAIN-SUFFIX,shop.terobox.com
 DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,shyrz.me
+DOMAIN-SUFFIX,simpli.fi
 DOMAIN-KEYWORD,singlelogin
 DOMAIN-SUFFIX,smartproxy.com
 DOMAIN-KEYWORD,sms-activate
@@ -632,6 +637,7 @@ IP-CIDR,13.226.0.0/16,no-resolve
 IP-CIDR,13.35.0.0/16,no-resolve
 IP-CIDR,13.57.0.0/16,no-resolve
 IP-CIDR,138.68.0.0/16,no-resolve
+IP-CIDR,141.193.213.0/24,no-resolve
 IP-CIDR,142.132.136.0/24,no-resolve
 IP-CIDR,144.202.126.0/24,no-resolve
 IP-CIDR,144.34.0.0/16,no-resolve
@@ -640,6 +646,8 @@ IP-CIDR,148.251.0.0/16,no-resolve
 IP-CIDR,15.197.0.0/16,no-resolve
 IP-CIDR,151.101.0.0/16,no-resolve
 IP-CIDR,154.22.123.0/24,no-resolve
+IP-CIDR,159.127.40.0/24,no-resolve
+IP-CIDR,159.127.43.0/24,no-resolve
 IP-CIDR,160.101.135.0/24,no-resolve
 IP-CIDR,162.159.0.0/16,no-resolve
 IP-CIDR,162.247.141.0/24,no-resolve
