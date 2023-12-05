@@ -814,6 +814,7 @@ IP-CIDR,74.125.28.188/32,no-resolve
 
 # 以下为自定义
 DOMAIN-SUFFIX,1e100cdn.net
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,mailinblue.com
 DOMAIN-SUFFIX,reurl.cc
@@ -824,6 +825,7 @@ IP-CIDR,142.250.0.0/16,no-resolve
 IP-CIDR,142.251.0.0/16,no-resolve
 IP-CIDR,216.239.36.0/24,no-resolve
 IP-CIDR,2607:f8b0::/32,no-resolve
+IP-CIDR,34.117.0.0/16,no-resolve
 IP-CIDR,34.120.0.0/16,no-resolve
 IP-CIDR,34.120.32.0/24,no-resolve
 IP-CIDR,34.149.0.0/16,no-resolve
