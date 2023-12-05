@@ -819,11 +819,13 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,mailinblue.com
 DOMAIN-SUFFIX,reurl.cc
 DOMAIN-SUFFIX,rs.fullstory.com
+DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN,voice.telephony.goog
 IP-CIDR,142.250.0.0/16,no-resolve
 IP-CIDR,142.251.0.0/16,no-resolve
 IP-CIDR,216.239.36.0/24,no-resolve
+IP-CIDR,2600:1901::/32,no-resolve
 IP-CIDR,2607:f8b0::/32,no-resolve
 IP-CIDR,34.117.0.0/16,no-resolve
 IP-CIDR,34.120.0.0/16,no-resolve
