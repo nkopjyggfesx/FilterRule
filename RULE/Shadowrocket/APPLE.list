@@ -224,10 +224,12 @@ DOMAIN-SUFFIX,xp.apple.com
 # End
 
 # 以下为自定义
+DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud.com
+IP-CIDR,17.253.0.0/16,no-resolve
 IP-CIDR,17.254.0.0/16,no-resolve
 IP-CIDR,2403:300:a42::/48,no-resolve
