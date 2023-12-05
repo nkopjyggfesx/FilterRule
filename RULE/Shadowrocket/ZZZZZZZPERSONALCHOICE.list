@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,allainews.com
 DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,allenpike.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-KEYWORD,ankiweb
 DOMAIN-SUFFIX,ankiweb.net
@@ -69,6 +71,7 @@ DOMAIN,avatars.doist.com
 DOMAIN-SUFFIX,avavz.com
 DOMAIN-SUFFIX,avjb.com
 DOMAIN-SUFFIX,avple.tv
+DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,backend.getdrafts.com
 DOMAIN-SUFFIX,bbc.com
@@ -141,6 +144,7 @@ DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,cs61a.org
 DOMAIN-SUFFIX,csdiy.wiki
+DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-SUFFIX,daringfireball.net
 DOMAIN-SUFFIX,ddxs.com
@@ -221,6 +225,7 @@ DOMAIN-SUFFIX,howie6879.com
 DOMAIN-SUFFIX,hubapi.com
 DOMAIN,i.ss01.net
 DOMAIN-SUFFIX,ideasip.com
+DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,imok.top
@@ -322,6 +327,7 @@ DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN,onekey.zendesk.com
 DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,openexchangerates.org
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,overwall.run
@@ -332,6 +338,7 @@ DOMAIN-SUFFIX,pbairen.xyz
 DOMAIN-SUFFIX,pepcn.com
 DOMAIN-SUFFIX,perfops.io
 DOMAIN-SUFFIX,perfops.net
+DOMAIN-SUFFIX,piano.io
 DOMAIN-SUFFIX,piaotian.com
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pinimg.com
@@ -386,6 +393,7 @@ DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,sendgrid.net
+DOMAIN-SUFFIX,sendtric.com
 DOMAIN-KEYWORD,sentry-cdn
 DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,shadowrocket.one
@@ -446,6 +454,7 @@ DOMAIN-SUFFIX,tgsou.me
 DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,theconversation.com
 DOMAIN-SUFFIX,thecryptobreakdown.com
+DOMAIN-SUFFIX,thefabulous.co
 DOMAIN-SUFFIX,thefreedictionary.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,thesprucecrafts.com
@@ -547,6 +556,7 @@ DOMAIN,yfamily.vercel.app
 DOMAIN-SUFFIX,yieldmo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yingshi.tv
+DOMAIN-SUFFIX,yiyo.io
 DOMAIN-SUFFIX,yout.com
 DOMAIN-SUFFIX,yqq11.com
 DOMAIN-SUFFIX,yummy.best
@@ -587,6 +597,7 @@ IP-CIDR,162.247.141.0/24,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,167.89.0.0/16,no-resolve
+IP-CIDR,172.35.0.0/16,no-resolve
 IP-CIDR,172.37.0.0/16,no-resolve
 IP-CIDR,172.66.0.0/16,no-resolve
 IP-CIDR,172.67.0.0/16,no-resolve
@@ -629,6 +640,7 @@ IP-CIDR,2a01:c9c0:c00c::/48,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,2a04:4e42::/32,no-resolve
 IP-CIDR,3.115.0.0/16,no-resolve
+IP-CIDR,3.134.0.0/16,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
 IP-CIDR,3.33.0.0/16,no-resolve
 IP-CIDR,33.34.239.0/24,no-resolve
