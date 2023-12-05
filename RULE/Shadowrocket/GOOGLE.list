@@ -816,6 +816,7 @@ IP-CIDR,74.125.28.188/32,no-resolve
 DOMAIN-SUFFIX,1e100cdn.net
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,loopme.me
 DOMAIN-SUFFIX,mailinblue.com
 DOMAIN-SUFFIX,reurl.cc
 DOMAIN-SUFFIX,rs.fullstory.com
@@ -845,4 +846,5 @@ IP-CIDR,35.213.67.0/24,no-resolve
 IP-CIDR,35.213.85.0/24,no-resolve
 IP-CIDR,35.213.110.0/24,no-resolve
 IP-CIDR,35.213.111.0/24,no-resolve
+IP-CIDR,35.214.0.0/16,no-resolve
 IP-CIDR,35.233.0.0/16,no-resolve
