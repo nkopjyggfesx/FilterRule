@@ -241,6 +241,7 @@ DOMAIN-SUFFIX,imok.top
 DOMAIN-SUFFIX,indieweb.social
 DOMAIN-SUFFIX,inessential.com
 DOMAIN-SUFFIX,innologica.com
+DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intergient.com
 DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ip-api.com
@@ -373,6 +374,7 @@ DOMAIN-KEYWORD,producthunt
 DOMAIN-SUFFIX,producthunt.com
 DOMAIN-SUFFIX,pub.network
 DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,quad9.net
 DOMAIN-SUFFIX,qust.me
 DOMAIN-SUFFIX,qwilt.com
 DOMAIN-SUFFIX,r.worldssl.net
@@ -641,6 +643,7 @@ IP-CIDR,206.237.0.0/16,no-resolve
 IP-CIDR,207.246.110.0/24,no-resolve
 IP-CIDR,208.113.145.0/24,no-resolve
 IP-CIDR,209.81.9.0/24,no-resolve
+IP-CIDR,216.21.3.0/24,no-resolve
 IP-CIDR,23.60.0.0/16,no-resolve
 IP-CIDR,2406:da14::/32,no-resolve
 IP-CIDR,2600:1f18::/32,no-resolve
@@ -652,6 +655,7 @@ IP-CIDR,2600:9000::/32,no-resolve
 IP-CIDR,2600:9000:234c::/48,no-resolve
 IP-CIDR,2605:52c0::/32,no-resolve
 IP-CIDR,2606:4700::/32,no-resolve
+IP-CIDR,2620:0:871:9000::/64,no-resolve
 IP-CIDR,2a01:238::/32,no-resolve
 IP-CIDR,2a01:4f8::/32,no-resolve
 IP-CIDR,2a01:c9c0:c00c::/48,no-resolve
