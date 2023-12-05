@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,aicpb.com
 DOMAIN-SUFFIX,aijichang.com
+DOMAIN-SUFFIX,albtls.t.co
 DOMAIN-SUFFIX,allainews.com
 DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,allenpike.com
@@ -123,6 +124,7 @@ DOMAIN-SUFFIX,clashsub.com
 DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,clock.via.net
 DOMAIN-SUFFIX,cloud.gist.build
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cmail20.com
@@ -132,6 +134,7 @@ DOMAIN,cn.wsj.com
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnrocket.top
+DOMAIN-SUFFIX,cococloud.online
 DOMAIN-KEYWORD,codecademy
 DOMAIN-SUFFIX,codecademy.com
 DOMAIN-SUFFIX,colacloud.site
@@ -183,6 +186,8 @@ DOMAIN-SUFFIX,feijicloud.com
 DOMAIN-SUFFIX,fenda.cloud
 DOMAIN-SUFFIX,ffffdloc1p9poy.sboxcdn.com
 DOMAIN-SUFFIX,fivebooks.com
+DOMAIN-SUFFIX,flowercloud.net
+DOMAIN-SUFFIX,flurry.com
 DOAMIN,fly.kogeki.dev
 DOMAIN-SUFFIX,fnf.one
 DOMAIN-SUFFIX,fomepay.com
@@ -223,8 +228,11 @@ DOMAIN-SUFFIX,hoothin.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,howie6879.com
 DOMAIN-SUFFIX,hubapi.com
+DOMAIN-SUFFIX,huacloud.net
 DOMAIN,i.ss01.net
+DOMAIN-SUFFIX,idcn.link
 DOMAIN-SUFFIX,ideasip.com
+DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,immersivetranslate.com
@@ -281,6 +289,7 @@ DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,manton.org
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meomiao.xyz
 DOMAIN-SUFFIX,merlinblog.xyz
@@ -413,7 +422,9 @@ DOMAIN-SUFFIX,sonobi.com
 DOMAIN-SUFFIX,soupian.app
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,spmailtechnol.com
+DOMAIN-SUFFIX,spot.im
 DOMAIN-SUFFIX,ss.mba
+DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,sspinet.com
 DOMAIN-SUFFIX,sssoou.com
 DOMAIN-SUFFIX,sstrojan.com
@@ -435,6 +446,7 @@ DOMAIN-SUFFIX,suyunti.com
 DOMAIN-SUFFIX,swag.live
 DOMAIN-SUFFIX,sxjf8789.com
 DOMAIN-SUFFIX,syncbits.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.eloqua.com
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,taishan.pro
@@ -447,6 +459,7 @@ DOMAIN-SUFFIX,tbsdy.cc
 DOMAIN-SUFFIX,tbsdy.com
 DOMAIN-SUFFIX,techsolutions.support.com
 DOMAIN-SUFFIX,techxiaofei.com
+DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telghub.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,terobox.com
@@ -563,6 +576,7 @@ DOMAIN-SUFFIX,yummy.best
 DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,zebraspeed.com
 DOMAIN-SUFFIX,zhikanlouzhu.com
 DOMAIN-KEYWORD,zhuiyingmao
 DOMAIN-SUFFIX,zhuiyingmao2.com
@@ -572,10 +586,12 @@ DOMAIN-SUFFIX,zz123.com
 IP-CIDR,100.0.0.0/8,no-resolve
 IP-CIDR,103.170.72.0/24,no-resolve
 IP-CIDR,104.122.0.0/16,no-resolve
+IP-CIDR,104.16.0.0/16,no-resolve
 IP-CIDR,104.18.0.0/16,no-resolve
 IP-CIDR,104.19.0.0/16,no-resolve
 IP-CIDR,104.200.22.0/24,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
+IP-CIDR,104.244.42.0/24,no-resolve
 IP-CIDR,104.26.0.0/16,no-resolve
 IP-CIDR,108.138.0.0/16,no-resolve
 IP-CIDR,123.201.0.0/16,no-resolve
