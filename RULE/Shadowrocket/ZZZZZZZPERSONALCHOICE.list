@@ -476,6 +476,7 @@ DOMAIN-SUFFIX,tapad.com
 DOMAIN-KEYWORD,tbsdy
 DOMAIN-SUFFIX,tbsdy.cc
 DOMAIN-SUFFIX,tbsdy.com
+DOMAIN-SUFFIX,teads.tv
 DOMAIN-SUFFIX,techsolutions.support.com
 DOMAIN-SUFFIX,techxiaofei.com
 DOMAIN-SUFFIX,telegraph.co.uk
@@ -503,6 +504,9 @@ DOMAIN-SUFFIX,truenet.cloud
 DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,truste.com
 DOMAIN-SUFFIX,tumutanzi.com
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tutanota.de
 DOMAIN-SUFFIX,tw93.fun
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
@@ -647,6 +651,7 @@ IP-CIDR,184.25.0.0/16,no-resolve
 IP-CIDR,185.151.204.0/24,no-resolve
 IP-CIDR,185.159.159.0/24,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
+IP-CIDR,185.205.69.0/24,no-resolve
 IP-CIDR,185.70.42.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.0.80.0/24,no-resolve
@@ -681,6 +686,7 @@ IP-CIDR,2a01:4f8::/32,no-resolve
 IP-CIDR,2a01:c9c0:c00c::/48,no-resolve
 IP-CIDR,2a03:2880:f10a:83:face:b00c:0:25de,no-resolve
 IP-CIDR,2a04:4e42::/32,no-resolve
+IP-CIDR,2a10:e000::/32,no-resolve
 IP-CIDR,3.115.0.0/16,no-resolve
 IP-CIDR,3.134.0.0/16,no-resolve
 IP-CIDR,3.220.0.0/16,no-resolve
