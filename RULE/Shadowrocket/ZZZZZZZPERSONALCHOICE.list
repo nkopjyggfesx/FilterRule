@@ -654,6 +654,7 @@ IP-CIDR,162.247.141.0/24,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,167.89.0.0/16,no-resolve
+IP-CIDR,172.11.0.0/16,no-resolve
 IP-CIDR,172.35.0.0/16,no-resolve
 IP-CIDR,172.37.0.0/16,no-resolve
 IP-CIDR,172.66.0.0/16,no-resolve
