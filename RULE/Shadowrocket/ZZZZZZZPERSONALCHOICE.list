@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,allenpike.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-KEYWORD,ankiweb
 DOMAIN-SUFFIX,ankiweb.net
@@ -85,14 +86,15 @@ DOMAIN,best.kogeki.dev
 DOMAIN-SUFFIX,betterdisplay.pro
 DOMAIN-SUFFIX,bidr.io
 DOMAIN-SUFFIX,bidswitch.com
+DOMAIN-SUFFIX,bitswitch.net
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bitswitch.com
 DOMAIN-SUFFIX,bityun.org
 DOMAIN-SUFFIX,blazingcdn.net
 DOMAIN,blog.xm.mk
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bookauthority.org
 DOMAIN-SUFFIX,bookshuku.com
+DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,boslife.io
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,braze-images.com
@@ -220,6 +222,7 @@ DOMAIN-SUFFIX,globa.com
 DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,gloria.social
 DOMAIN-SUFFIX,go.sonobi.com
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,googlevoice.top
 DOMAIN-SUFFIX,googo.us
 DOMAIN-SUFFIX,gptocean.com
@@ -229,6 +232,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,guihet.com
 DOMAIN-SUFFIX,guolicheng.cc
+DOMAIN-SUFFIX,hexasoft.com
 DOMAIN-SUFFIX,hexo.19910927.xyz
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,hly0928.com
@@ -420,6 +424,7 @@ DOMAIN-SUFFIX,saururus.ink
 DOMAIN-SUFFIX,scamalytics.com
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,sendtric.com
 DOMAIN-KEYWORD,sentry-cdn
@@ -499,11 +504,13 @@ DOMAIN,todoist.b-cdn.net
 DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,todoist.net
 DOMAIN,tool.yibook.org
+DOMAIN-SUFFIX,tribalfusion.com
 DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,truenet.cloud
 DOMAIN-SUFFIX,trumpwallpapers.com
 DOMAIN-SUFFIX,truste.com
 DOMAIN-SUFFIX,tumutanzi.com
+DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tuta.com
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tutanota.de
@@ -529,6 +536,7 @@ DOMAIN-SUFFIX,vincode.io
 DOMAIN-SUFFIX,voipraider.com
 DOMAIN-SUFFIX,vox.com
 DOMAIN-SUFFIX,vpnxxw.com
+DOMAIN-SUFFIX,w55c.net
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallpapers.com
 DOMAIN-SUFFIX,wallpapersmug.com
