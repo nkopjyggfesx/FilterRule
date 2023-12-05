@@ -186,6 +186,8 @@ DOMAIN-SUFFIX,feijicloud.com
 DOMAIN-SUFFIX,fenda.cloud
 DOMAIN-SUFFIX,ffffdloc1p9poy.sboxcdn.com
 DOMAIN-SUFFIX,fivebooks.com
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,flipboard.social
 DOMAIN-SUFFIX,flowercloud.net
 DOMAIN-SUFFIX,flurry.com
 DOAMIN,fly.kogeki.dev
@@ -346,6 +348,7 @@ DOMAIN-SUFFIX,owenyoung.com
 DOMAIN-SUFFIX,ozabc.com
 DOMAIN-SUFFIX,pandavpnpro.com
 DOMAIN-SUFFIX,pbairen.xyz
+DOMAIN-SUFFIX,pdfexpert.com
 DOMAIN-SUFFIX,pepcn.com
 DOMAIN-SUFFIX,perfops.io
 DOMAIN-SUFFIX,perfops.net
@@ -372,6 +375,11 @@ DOMAIN,producthunt.app.link
 DOMAIN,producthunt-alternate.app.link
 DOMAIN-KEYWORD,producthunt
 DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonvpn.ch
+DOMAIN-SUFFIX,protonvpn.com
 DOMAIN-SUFFIX,pub.network
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,quad9.net
@@ -627,7 +635,9 @@ IP-CIDR,18.200.0.0/16,no-resolve
 IP-CIDR,184.169.191.0/24,no-resolve
 IP-CIDR,184.25.0.0/16,no-resolve
 IP-CIDR,185.151.204.0/24,no-resolve
+IP-CIDR,185.159.159.0/24,no-resolve
 IP-CIDR,185.184.8.0/24,no-resolve
+IP-CIDR,185.70.42.0/24,no-resolve
 IP-CIDR,192.0.78.0/24,no-resolve
 IP-CIDR,192.0.80.0/24,no-resolve
 IP-CIDR,192.170.0.0/16,no-resolve
