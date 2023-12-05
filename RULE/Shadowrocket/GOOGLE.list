@@ -816,6 +816,7 @@ IP-CIDR,74.125.28.188/32,no-resolve
 DOMAIN-SUFFIX,1e100cdn.net
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,mailinblue.com
+DOMAIN-SUFFIX,reurl.cc
 DOMAIN-SUFFIX,rs.fullstory.com
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN,voice.telephony.goog
@@ -827,6 +828,7 @@ IP-CIDR,34.120.0.0/16,no-resolve
 IP-CIDR,34.120.32.0/24,no-resolve
 IP-CIDR,34.149.0.0/16,no-resolve
 IP-CIDR,34.96.0.0/16,no-resolve
+IP-CIDR,35.185.0.0/16,no-resolve
 IP-CIDR,35.186.0.0/16,no-resolve
 IP-CIDR,35.190.0.0/16,no-resolve
 IP-CIDR,35.213.0.0/16,no-resolve
