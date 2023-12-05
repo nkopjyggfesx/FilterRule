@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2023-12-04
+# updated: 2023-12-05
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -815,6 +815,7 @@ IP-CIDR,74.125.28.188/32,no-resolve
 # 以下为自定义
 DOMAIN-SUFFIX,1e100cdn.net
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,mailinblue.com
 DOMAIN-SUFFIX,rs.fullstory.com
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN,voice.telephony.goog
@@ -838,3 +839,4 @@ IP-CIDR,35.213.67.0/24,no-resolve
 IP-CIDR,35.213.85.0/24,no-resolve
 IP-CIDR,35.213.110.0/24,no-resolve
 IP-CIDR,35.213.111.0/24,no-resolve
+IP-CIDR,35.233.0.0/16,no-resolve
