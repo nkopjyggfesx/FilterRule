@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-12-04
+# updated: 2023-12-05
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,dyxs31.com
 DOMAIN,e16991.b.akamaiedge.net
 DOMAIN-SUFFIX,ej666.com
 DOMAIN-SUFFIX,eascdn.net
+DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,ekiga.net
 DOMAIN-SUFFIX,eleven.observer
 DOMAIN-SUFFIX,eloqua.com
@@ -337,6 +338,7 @@ DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,piqsels.com
 DOMAIN-SUFFIX,pkeytool.com
+DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,pndsn.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,politico.com
@@ -359,6 +361,7 @@ DOMAIN-SUFFIX,qwilt.com
 DOMAIN-SUFFIX,r.worldssl.net
 DOMAIN-SUFFIX,ranchero.com
 DOMAIN-SUFFIX,ranwen.la
+DOMAIN-SUFFIX,rawpixel.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
