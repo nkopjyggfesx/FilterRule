@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-12-07
+# updated: 2023-12-08
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,8xanh.top
 DOMAIN-SUFFIX,91ai.net
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91rb.com
+DOMAIN-SUFFIX,99rego.info.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,a-nomad.com
 DOMAIN-SUFFIX,ace-taffy.com
@@ -76,6 +77,8 @@ DOMAIN-SUFFIX,automattic.com
 DOMAIN,avatars.doist.com
 DOMAIN-SUFFIX,avavz.com
 DOMAIN-SUFFIX,avjb.com
+DOMAIN-SUFFIX,avlanga3.com
+DOMAIN-SUFFIX,avlanga5.com
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,b-cdn.net
@@ -157,11 +160,14 @@ DOMAIN-SUFFIX,csdiy.wiki
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-KEYWORD,dandanzan
 DOMAIN-SUFFIX,daringfireball.net
+DOMAIN-SUFFIX,dayuzc.com
 DOMAIN-SUFFIX,ddxs.com
+DOMAIN-SUFFIX,ddxsss.com
 DOMAIN-SUFFIX,deepintent.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitalnomadlc.com
 DOMAIN-SUFFIX,divineengine.net
+DOMAIN-SUFFIX,diyizhan.xyz
 DOMAIN-SUFFIX,djgskc.top
 DOMAIN-SUFFIX,djsfenxiang.com
 DOMAIN-SUFFIX,doist.com
@@ -188,6 +194,7 @@ DOMAIN-SUFFIX,eureka.mba
 DOMAIN-SUFFIX,evan888.top
 DOMAIN-SUFFIX,expo.dev
 DOMAIN-SUFFIX,facmata.net
+DOMAIN-SUFFIX,fadaxs.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,feedpress.me
 DOMAIN,feeds.bbci.co.uk
@@ -237,6 +244,7 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,guihet.com
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,guolicheng.cc
+DOMAIN-SUFFIX,hbpas.org
 DOMAIN-SUFFIX,hexasoft.com
 DOMAIN-SUFFIX,hexo.19910927.xyz
 DOMAIN-SUFFIX,histats.com
@@ -246,6 +254,7 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,howie6879.com
 DOMAIN-SUFFIX,hubapi.com
 DOMAIN-SUFFIX,huacloud.net
+DOMAIN-SUFFIX,huayi-hk.com
 DOMAIN,i.ss01.net
 DOMAIN-SUFFIX,idcn.link
 DOMAIN-SUFFIX,ideasip.com
@@ -286,7 +295,9 @@ DOMAIN-SUFFIX,kottke.org
 DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,kyivindependent.com
+DOMAIN-SUFFIX,langrenxiaoshuo.com
 DOMAIN-SUFFIX,laosu.ml
+DOMAIN-SUFFIX,laowang.vip
 DOMAIN-SUFFIX,lemonsqueezy.com
 DOMAIN-SUFFIX,lemonsqueezy-mail.com
 DOMAIN-SUFFIX,lencr.org
@@ -443,6 +454,7 @@ DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,shyrz.me
 DOMAIN-SUFFIX,simpli.fi
 DOMAIN-KEYWORD,singlelogin
+DOMAIN-SUFFIX,sisurl.net
 DOMAIN-SUFFIX,smartproxy.com
 DOMAIN-KEYWORD,sms-activate
 DOMAIN-SUFFIX,sms-activate.org
@@ -511,6 +523,7 @@ DOMAIN,todoist.b-cdn.net
 DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,todoist.net
 DOMAIN,tool.yibook.org
+DOMAIN-SUFFIX,torontolove.cc
 DOMAIN-SUFFIX,tribalfusion.com
 DOMAIN-SUFFIX,trine.wang
 DOMAIN-SUFFIX,truenet.cloud
@@ -612,6 +625,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yingshi.tv
 DOMAIN-SUFFIX,yiyo.io
 DOMAIN-SUFFIX,yout.com
+DOMAIN-SUFFIX,yppan.com
 DOMAIN-SUFFIX,yqq11.com
 DOMAIN-SUFFIX,yummy.best
 DOMAIN-SUFFIX,z-library.se
@@ -630,6 +644,8 @@ IP-CIDR,104.122.0.0/16,no-resolve
 IP-CIDR,104.16.0.0/16,no-resolve
 IP-CIDR,104.18.0.0/16,no-resolve
 IP-CIDR,104.19.0.0/16,no-resolve
+IP-CIDR,104.194.212.42/32,no-resolve
+IP-CIDR,104.194.212.8/32,no-resolve
 IP-CIDR,104.200.22.0/24,no-resolve
 IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,104.244.42.0/24,no-resolve
@@ -654,6 +670,7 @@ IP-CIDR,159.127.43.0/24,no-resolve
 IP-CIDR,160.101.135.0/24,no-resolve
 IP-CIDR,162.159.0.0/16,no-resolve
 IP-CIDR,162.247.141.0/24,no-resolve
+IP-CIDR,162.252.9.11/32,no-resolve
 IP-CIDR,162.55.0.0/16,no-resolve
 IP-CIDR,164.52.146.0/24,no-resolve
 IP-CIDR,167.89.0.0/16,no-resolve
