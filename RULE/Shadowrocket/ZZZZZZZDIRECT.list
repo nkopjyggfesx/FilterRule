@@ -1,6 +1,6 @@
 # ZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-12-05
+# updated: 2023-12-14
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,speedcat-aff02.com
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,umeng.com
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,weixin.qq.com
