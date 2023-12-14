@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-12-08
+# updated: 2023-12-14
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -308,6 +308,7 @@ DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
+DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,logcg.com
@@ -662,6 +663,7 @@ IP-CIDR,144.202.126.0/24,no-resolve
 IP-CIDR,144.34.0.0/16,no-resolve
 IP-CIDR,147.75.40.0/24,no-resolve
 IP-CIDR,148.251.0.0/16,no-resolve
+IP-CIDR,149.28.23.0/24,no-resolve
 IP-CIDR,15.197.0.0/16,no-resolve
 IP-CIDR,151.101.0.0/16,no-resolve
 IP-CIDR,154.22.123.0/24,no-resolve
