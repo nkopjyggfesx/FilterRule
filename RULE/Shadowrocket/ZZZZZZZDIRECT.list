@@ -1,6 +1,6 @@
 # ZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-12-14
+# updated: 2023-12-15
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -10,6 +10,7 @@ DOMAIN,ad.12306.cn
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bscabank.com
 DOMAIN,clash.razord.top
 DOMAIN,dns.weixin.com
