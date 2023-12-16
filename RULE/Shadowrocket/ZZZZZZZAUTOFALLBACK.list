@@ -1,9 +1,13 @@
 # ZZZZZZZAUTOFALLBACK
 # created: 2023-10-08
-# updated: 2023-12-04
+# updated: 2023-12-16
 # description:
 # note: 
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,applilink.jp
+DOMAIN-SUFFIX,konami.net
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,laosu.ml
+DOMAIN-SUFFIX,miu11.one
 DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,ubisoft
