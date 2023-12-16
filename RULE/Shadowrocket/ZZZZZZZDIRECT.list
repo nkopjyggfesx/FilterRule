@@ -1,6 +1,6 @@
 # ZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-12-15
+# updated: 2023-12-16
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,lswld.com
 DOMAIN-SUFFIX,masterduelmeta.com
 DOMAIN-SUFFIX,mathpix.com
-DOMAIN-SUFFIX,mo.konami.net,direct
 DOMAIN-KEYWORD,myunidays
 DOMAIN-SUFFIX,ntp.nasa.gov
 DOMAIN-SUFFIX,onezapp.com
@@ -62,7 +61,6 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
 DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,www.applilink.jp
 DOMAIN-KEYWORD,xzxpay
 DOMAIN,yacd.haishan.me
 DOMAIN-KEYWORD,zanao
