@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2023-12-16
+# updated: 2023-12-18
 # description:
 # note: 
 DOMAIN-SUFFIX,ai.com
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN,api.revenuecat.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN,api.statsig.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bing.com
