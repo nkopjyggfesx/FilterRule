@@ -5,10 +5,6 @@
 # note: 
 DOMAIN-SUFFIX,123-series.com
 DOMAIN-SUFFIX,1milk.top
-DOMAIN-SUFFIX,1password.co
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,1password.community
-DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,1rx.io
 DOMAIN-SUFFIX,23img.com
 DOMAIN-SUFFIX,25748s.ha.azioncdn.net
@@ -45,7 +41,6 @@ DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,adsrvr.org
-DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,aicpb.com
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,akamaihd.net
