@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-12-20
+# updated: 2023-12-22
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -361,7 +361,6 @@ DOMAIN-SUFFIX,observablehq.com
 DOMAIN-SUFFIX,observableusercontent.com
 DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,omappapi.com
-DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,oneapi.cc
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onefoottsunami.com
