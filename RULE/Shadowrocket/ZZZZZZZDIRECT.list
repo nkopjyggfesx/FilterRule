@@ -1,6 +1,6 @@
 # ZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-12-22
+# updated: 2023-12-23
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -66,4 +66,3 @@ DOMAIN-KEYWORD,xzxpay
 DOMAIN,yacd.haishan.me
 DOMAIN-KEYWORD,zanao
 DOMAIN-SUFFIX,zanao.com
-IP-CIDR,127.0.0.0/8,no-resolve
