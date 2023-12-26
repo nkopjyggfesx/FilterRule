@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2023-12-23
+# updated: 2023-12-26
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,ad.gt
 DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,adgrx.com
 DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,adjust.world
