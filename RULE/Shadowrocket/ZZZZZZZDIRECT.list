@@ -1,6 +1,6 @@
 # ZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2023-12-23
+# updated: 2023-12-29
 # description:
 # note:
 DOMAIN-SUFFIX,36d.biz
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,db.yugioh-card.com
 DOMAIN,dns.weixin.com
 DOMAIN-SUFFIX,duellinksmeta.com
 DOMAIN-KEYWORD,eudic
+DOMAIN-SUFFIX,fomepay.com
 DOMAIN-SUFFIX,ftq.wiki
 DOMAIN,gg.caixin.com
 DOMAIN-KEYWORD,goodnotes
