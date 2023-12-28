@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2023-12-16
+# updated: 2023-12-29
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,beacons.gvt2.com
 DOMAIN-SUFFIX,beacons2.gvt2.com
 DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,beatthatquote.com
+DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,blogblog.com
