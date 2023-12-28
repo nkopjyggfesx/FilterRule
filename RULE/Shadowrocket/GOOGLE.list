@@ -55,7 +55,6 @@ DOMAIN-SUFFIX,beacons.gvt2.com
 DOMAIN-SUFFIX,beacons2.gvt2.com
 DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,beatthatquote.com
-DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,blogblog.com
@@ -813,6 +812,7 @@ IP-CIDR,74.125.28.188/32,no-resolve
 # 以下为自定义
 DOMAIN-SUFFIX,1e100cdn.net
 DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,cinarra.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,googleapis.com
