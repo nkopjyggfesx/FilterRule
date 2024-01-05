@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-01-04
+# updated: 2024-01-05
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -644,4 +644,5 @@ DOMAIN-KEYWORD,zhuiyingmao
 DOMAIN-SUFFIX,zhuiyingmao2.com
 DOMAIN-SUFFIX,zlib-articles.se
 DOMAIN-KEYWORD,zlibrary
+DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,zz123.com
