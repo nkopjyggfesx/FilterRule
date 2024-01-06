@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-01-05
+# updated: 2024-01-06
 # description:
 # note: 
 DOMAIN-SUFFIX,123-series.com
@@ -455,6 +455,9 @@ DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,shyrz.me
 DOMAIN-SUFFIX,simpli.fi
 DOMAIN-KEYWORD,singlelogin
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.rs
+DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,sisurl.net
 DOMAIN-SUFFIX,smartproxy.com
@@ -644,5 +647,6 @@ DOMAIN-KEYWORD,zhuiyingmao
 DOMAIN-SUFFIX,zhuiyingmao2.com
 DOMAIN-SUFFIX,zlib-articles.se
 DOMAIN-KEYWORD,zlibrary
+DOMAIN-SUFFIX,zlibrary.se
 DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,zz123.com
