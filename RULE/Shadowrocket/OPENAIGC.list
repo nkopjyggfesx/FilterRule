@@ -130,8 +130,9 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sapphire.bingviz.com
 DOMAIN-SUFFIX,scrubbingcenter.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN,sdk-api-v1.singular.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,shopvoxpopulus.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,slack.com
