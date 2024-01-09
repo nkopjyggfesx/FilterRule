@@ -10,4 +10,5 @@
 [@deezertidal](https://github.com/deezertidal/shadowrocket-rules)<br>
 [@missuo](https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list)<br>
 [@Liguangming](https://liguangming.com/Shadowrocket)<br>
-[@GMOogway](https://github.com/GMOogway/shadowrocket-rules)
+[@GMOogway](https://github.com/GMOogway/shadowrocket-rules)<br>
+[@可莉]([https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/Copilot.list](https://t.me/ibilibili)https://t.me/ibilibili)
