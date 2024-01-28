@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2024-01-09
+# updated: 2024-01-28
 # description:
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/OpenAI/OpenAI.list"
@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,f7tk.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-KEYWORD,forefront
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gist.build
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googletagmanager.com
