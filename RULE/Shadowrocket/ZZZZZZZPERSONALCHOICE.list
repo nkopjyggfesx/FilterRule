@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-01-27
+# updated: 2024-01-29
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
@@ -294,6 +294,7 @@ DOMAIN-SUFFIX,geckopath.com
 DOMAIN-SUFFIX,geekerline.com
 DOMAIN-SUFFIX,gequbao.com
 DOMAIN-SUFFIX,gettoby.com
+DOMAIN-SUFFIX,getmatter.com
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,giphy.com
 DOMAIN,gist-queue-consumer-api.cloud.gist.build
