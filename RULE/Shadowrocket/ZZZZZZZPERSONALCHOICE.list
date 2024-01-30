@@ -4,7 +4,6 @@
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
-DOMAIN,104.194.212.42
 DOMAIN-SUFFIX,121231234.xyz
 DOMAIN-SUFFIX,123-series.com
 DOMAIN-SUFFIX,139fm.fun
@@ -847,3 +846,4 @@ DOMAIN-KEYWORD,zlibrary
 DOMAIN-SUFFIX,zlibrary.se
 DOMAIN-SUFFIX,zlibrary-global.se
 DOMAIN-SUFFIX,zz123.com
+IP-CIDR,104.194.212.42/32
