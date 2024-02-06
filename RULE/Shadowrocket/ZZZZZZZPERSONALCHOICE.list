@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-02-02
+# updated: 2024-02-07
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
@@ -556,6 +556,7 @@ DOMAIN-SUFFIX,rawpixel.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,redtubelive.com
@@ -673,6 +674,7 @@ DOMAIN-KEYWORD,tbsdy
 DOMAIN-SUFFIX,tbsdy.cc
 DOMAIN-SUFFIX,tbsdy.com
 DOMAIN-SUFFIX,teads.tv
+DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,techsolutions.support.com
 DOMAIN-SUFFIX,techxiaofei.com
 DOMAIN-SUFFIX,telegraph.co.uk
