@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-02-08
+# updated: 2024-02-13
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,albtls.t.co
 DOMAIN-SUFFIX,allainews.com
 DOMAIN-SUFFIX,allencj.com
 DOMAIN-SUFFIX,allenpike.com
+DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,alphaporno.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amazonaws.com
@@ -514,6 +515,7 @@ DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,piqsels.com
+DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pkeytool.com
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,pndsn.com
@@ -750,8 +752,12 @@ DOMAIN-SUFFIX,vpnxxw.com
 DOMAIN-SUFFIX,vporn.com
 DOMAIN-SUFFIX,w55c.net
 DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,wallpaperaccess.com
+DOMAIN-SUFFIX,wallpapermaiden.com
 DOMAIN-SUFFIX,wallpapers.com
 DOMAIN-SUFFIX,wallpapersmug.com
+DOMAIN-SUFFIX,wallroom.io
+DOMAIN-SUFFIX,wallspic.com
 DOMAIN-SUFFIX,wd-cloud.net
 DOMAIN-SUFFIX,wdsou.com
 DOMAIN,web.dashsp.top
