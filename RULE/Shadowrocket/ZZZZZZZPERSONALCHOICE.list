@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-02-16
+# updated: 2024-02-18
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
@@ -375,6 +375,7 @@ DOMAIN-SUFFIX,javhoo.com
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jike.info
+DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jubt11.xyz
 DOMAIN-SUFFIX,juicyads.com
