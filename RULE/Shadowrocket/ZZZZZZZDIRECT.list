@@ -1,6 +1,6 @@
 # ZZZZZZZDIRECT
 # created: 2023-10-08
-# updated: 2024-02-16
+# updated: 2024-02-24
 # description:
 # note:
 DOMAIN-SUFFIX,2q10.com
@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,bscabank.com
 DOMAIN,clash.razord.top
 DOMAIN,dns.weixin.com
 DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,clarivate.io
+DOMAIN-SUFFIX,clarivate.net
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,coolshell.cn
 DOMAIN-SUFFIX,db.yugioh-card.com
