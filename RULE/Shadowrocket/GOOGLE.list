@@ -1,6 +1,6 @@
 # GOOGLE
 # created: 2023-10-08
-# updated: 2024-02-24
+# updated: 2024-03-01
 # description: 
 # note:
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Google/Google.list"
@@ -852,3 +852,4 @@ IP-CIDR,35.214.0.0/16,no-resolve
 IP-CIDR,35.215.0.0/16,no-resolve
 IP-CIDR,35.233.0.0/16,no-resolve
 IP-CIDR,35.241.0.0/16,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
