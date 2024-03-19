@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-03-04
+# updated: 2024-03-19
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
@@ -579,6 +579,7 @@ DOMAIN-SUFFIX,ranwen.la
 DOMAIN-SUFFIX,rarbg.com
 DOMAIN-SUFFIX,rawpixel.com
 DOMAIN-SUFFIX,redd.it
+DOMAIN,reddit.app.link
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
