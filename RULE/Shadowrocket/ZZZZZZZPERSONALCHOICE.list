@@ -1,6 +1,6 @@
 # ZZZZZZZPERSONALCHOICE
 # created: 2023-10-08
-# updated: 2024-03-19
+# updated: 2024-03-23
 # description:
 # note: 
 DOMAIN-SUFFIX,1000novel.com
@@ -400,6 +400,8 @@ DOMAIN-SUFFIX,kk25114.shop
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,klxq永遠的神.top
 DOMAIN-SUFFIX,kogeki.dev
+DOMAIN-SUFFIX,konami.com
+DOMAIN-SUFFIX,konami.net
 DOMAIN-SUFFIX,kottke.org
 DOMAIN-SUFFIX,kq8.com
 DOMAIN-SUFFIX,kuromis.com
@@ -452,6 +454,7 @@ DOMAIN-SUFFIX,micro.blog
 DOMAIN-SUFFIX,mjtsai.com
 DOMAIN-SUFFIX,mmkk2.cn
 DOMAIN-SUFFIX,mncks.buzz
+DOMAIN-SUFFIX,mo.konami.net
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,mobilelf.com
 DOMAIN-SUFFIX,moefuns.vip
