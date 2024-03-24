@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult-empire.com
 DOMAIN-SUFFIX,adultfriendfinder.com
+DOMAIN-SUFFIX,adxadserv.com
 DOMAIN-SUFFIX,afcdn.net
 DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,agilebits.com
@@ -159,6 +160,7 @@ DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,caiyun.pw
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,cam4.com
+DOMAIN-SUFFIX,capaciousdrewreligion.com
 DOMAIN,card.onekey.so
 DOMAIN,card-server.onekey.so
 DOMAIN-SUFFIX,casalemedia.com
@@ -232,9 +234,11 @@ DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,doist.com
 DOMAIN-SUFFIX,dojki.com
+DOMAIN-SUFFIX,doppiocdn.net
 DOMAIN-SUFFIX,dotomi.com
 DOMAIN-KEYWORD,downiestatistics
 DOMAIN-SUFFIX,downiestatistics.com
+DOMAIN-SUFFIX,downstairsnegotiatebarren.com
 DOMAIN,dp.haiwaikan.com
 DOMAIN-SUFFIX,drtuber.com
 DOMAIN-SUFFIX,duangks.com
@@ -396,6 +400,7 @@ DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jubt11.xyz
 DOMAIN-SUFFIX,juicyads.com
+DOMAIN-SUFFIX,juicyads.me
 DOMAIN-SUFFIX,jvns.ca
 DOMAIN-SUFFIX,kanunu8.com
 DOMAIN-SUFFIX,kcssr.xyz
@@ -573,6 +578,7 @@ DOMAIN,producthunt.app.link
 DOMAIN,producthunt-alternate.app.link
 DOMAIN-KEYWORD,producthunt
 DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,proftrafficcounter.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,protonmail.ch
 DOMAIN-SUFFIX,protonmail.com
@@ -695,6 +701,7 @@ DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,stent.icu
 DOMAIN-SUFFIX,stickytimers.app
 DOMAIN-SUFFIX,streamcloud.eu
+DOMAIN-SUFFIX,stripchat.global
 DOMAIN-SUFFIX,stripchatgirls.com
 DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,stytch.com
@@ -716,6 +723,7 @@ DOMAIN-SUFFIX,tagss02.pro
 DOMAIN-SUFFIX,tagss03.pro
 DOMAIN-SUFFIX,taishan.pro
 DOMAIN-SUFFIX,takeshi.wiki
+DOMAIN-SUFFIX,tamesurf.com
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,tangrenjie.tv
 DOMAIN-SUFFIX,tapad.com
@@ -858,6 +866,7 @@ DOMAIN-SUFFIX,xfx.ink
 DOMAIN-SUFFIX,xg08.vip
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamstercams.com
+DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xiaoz.org
 DOMAIN-SUFFIX,xiazaiba.com
 DOMAIN-SUFFIX,xijinping.store
