@@ -1,9 +1,10 @@
 # ZZZZZZZAUTOFALLBACK
 # created: 2023-10-08
-# updated: 2024-03-23
+# updated: 2024-03-25
 # description:
 # note: 
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,applilink.jp
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,konami.com
