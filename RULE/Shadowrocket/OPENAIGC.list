@@ -1,6 +1,6 @@
 # OPENAIGC
 # created: 2023-10-09
-# updated: 2024-01-28
+# updated: 2024-03-25
 # description:
 # note: 
 # "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/OpenAI/OpenAI.list"
@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN,api.revenuecat.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN,api.statsig.com
-DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bing.com
@@ -144,6 +143,7 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stspg-customer.com
+DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,swiftycdn.net
 DOMAIN-SUFFIX,tch.poe.com
 DOMAIN-SUFFIX,tcr9i.chat.openai.com
